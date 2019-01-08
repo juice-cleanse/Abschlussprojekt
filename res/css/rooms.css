@@ -1,0 +1,171 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22.12.2018, 11:14:54
+    Author     : aliii
+*/
+
+/*Änderung der Einstellungen der Links in Raumliste*/
+a:hover {
+    color:#8AAA15;
+}
+a{
+    color: #696F76;
+}
+
+/*allgemeine Einstellungen für container*/
+body{
+    background-color: #D3D3D3;
+}
+section .container {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    background-color: white; 
+    margin-bottom: 1em;
+    position: relative;
+}
+
+/*Hauptüberschrift Raumbelegung*/
+.h2Custom{
+	padding-top:1em;
+    padding-bottom: 0.3em;
+    text-align: center;  
+    font-size:xx-large;
+}
+/*Einstellungen Überschriften*/
+.container h3 {
+    font-size: large; 
+}
+.container h4 {
+    font-size: medium; 
+}
+.container h5 {
+    font-size: medium; 
+}
+
+/*Einstellungen form bei Raumliste und Raumsuche*/
+.customForm div{
+    margin:0;
+    padding: 0.3em;
+}
+
+/*Inputfeld + label bei Raumsuche*/
+input[type=text]{
+    width: 100%;
+    padding: 0.2em;
+    display: inline-block;
+    border-radius: 0.3em;    
+}
+label {
+    vertical-align: middle;
+    display: inline-block;
+    text-align: center;
+    margin:0;
+    width: 100%;
+}
+
+/*Button Raumsuche*/
+.col-sm-4 button, .col-xs-12 button{
+	cursor: pointer;
+    background-color: #F3F3F3;
+    color: black;
+    font-weight: bold;
+    margin:auto;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    padding: 10px 15px;
+    border: thin #696F76 solid;
+    border-radius: 4px;
+    display: block;
+    width: 100%;
+
+}
+/*Platzhalterbild für QR-Code*/
+#qrPlaceholder svg{
+	cursor: pointer;
+    max-width: 20%;
+    border: black solid thin;
+    border-radius: 0.3em; 
+    padding: 0.5em; 
+}
+/*div + heading für Platzhalter*/
+#qrPlaceholder {
+    margin:auto;
+    text-align: center;
+}
+#qrPlaceholder h4 {
+    max-width: 100%;
+    text-align: center;
+    font-weight: bold;
+    margin: auto;
+    margin-top: 0.5em; 
+
+}
+/*entfernen des Aufzählungszeichens für li*/
+#Raumliste li, #formSearch li{
+    display: block; 
+    list-style: none;
+}
+/*Padding um ein Überlappen des Icons zu vermeiden*/
+.addPadd{
+    padding-right: 30px !important;
+    position:relative;
+}
+/*Position vom Icon schedule anpassen*/
+.iconCustom{
+    position:absolute; 
+    right:0;
+    top: 5px;
+}
+/*Überscchrift im newDiv*/
+h5 {
+    position:relative;
+    margin-bottom: 0;
+    padding: 0.2em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    border: #F3F3F3 solid thin;
+      
+}
+/*Icon Close im newDiv*/
+h5 .material-icons{
+    position: absolute; 
+    right:0px;
+    top:0; 
+    cursor:pointer;
+    margin:0;
+    
+}
+h5 .material-icons:hover {
+    text-decoration: none;  
+    transform: scale(1.1);
+
+}
+/*Customize Row in newDiv*/
+.container .customRow {
+   background-color: #F3F3F3;
+   max-width: 100%;
+   
+}
+/*Andere Einstellungen beim newDiv vom scannen*/
+#addQRdata .container h5 {
+    text-align: left;
+}
+#addQRdata .container .customRow{
+   margin: auto;
+   text-align: left;
+   padding: 0.3em;
+}
+#addQRdata .container .customRow .iconCustom{
+   position:absolute; 
+    right:0;
+}
+/*video von Webcam*/
+#preview {
+    max-width: 100%;
+    height:auto;
+}
+

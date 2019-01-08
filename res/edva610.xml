@@ -1,0 +1,1026 @@
+﻿<?xml version="1.0"?>
+<Saalplan raum="EDVA610">
+<LVDaten>
+  <Datum>20.11.2017</Datum>
+  <Von>10:25:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Matthias Frohner</Lektoren>
+  <Gruppen>BBE-5B  / ECI-0INC009 / ECI-0INC019 / ECI-0INC020,ECI-0INC009,ECI-0INC019,ECI-0INC020</Gruppen>
+  <Lehrfach>Mobile Computing in Medical Imaging and Data Engineering</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>4</StundeVon>
+  <StundeBis>5</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>20.11.2017</Datum>
+  <Von>14:30:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Christian Kaufmann</Lektoren>
+  <Gruppen>BVU-5A  / ECI-0INC003,ECI-0INC003</Gruppen>
+  <Lehrfach>Netzwerksicherheit</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>9</StundeVon>
+  <StundeBis>10</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>21.11.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Matthias Wenzl</Lektoren>
+  <Gruppen>BIF-5ESP</Gruppen>
+  <Lehrfach>Embedded Signal Processing</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>4</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>21.11.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Alexander-Philipp Lintenhofer</Lektoren>
+  <Gruppen>MIC-1A </Gruppen>
+  <Lehrfach>IT-Sicherheit</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>21.11.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Alexander-Philipp Lintenhofer</Lektoren>
+  <Gruppen>MIC-1B </Gruppen>
+  <Lehrfach>IT-Sicherheit</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>22.11.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Gerd Holweg</Lektoren>
+  <Gruppen>BIF-5BDG</Gruppen>
+  <Lehrfach>Big Data Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>22.11.2017</Datum>
+  <Von>12:50:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Markus Eckelt</Lektoren>
+  <Gruppen>BST-3  </Gruppen>
+  <Lehrfach>Angewandte Messtechnik im Sportgeräteprüfwesen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>8</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>22.11.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Christian Hager</Lektoren>
+  <Gruppen>BIC-5SPE03</Gruppen>
+  <Lehrfach>Spezialisierung 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>23.11.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Markus Bader</Lektoren>
+  <Gruppen>BIF-5RAD</Gruppen>
+  <Lehrfach>Robotics Application Development</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>5</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>23.11.2017</Datum>
+  <Von>12:05:00</Von>
+  <Bis>13:35:00</Bis>
+  <Lektoren>Josef Wagner</Lektoren>
+  <Gruppen>BVU-1SPZ3</Gruppen>
+  <Lehrfach>Programmieren, Algorithmen und Datenstrukturen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>6</StundeVon>
+  <StundeBis>7</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>23.11.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Thomas Mandl</Lektoren>
+  <Gruppen>MIC-1A </Gruppen>
+  <Lehrfach>Cyber Security Threats</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>23.11.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Thomas Mandl</Lektoren>
+  <Gruppen>MIC-1B </Gruppen>
+  <Lehrfach>Cyber Security Threats</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>24.11.2017</Datum>
+  <Von>08:00:00</Von>
+  <Bis>10:25:00</Bis>
+  <Lektoren>Eckehard Diem</Lektoren>
+  <Gruppen>BST-5A1</Gruppen>
+  <Lehrfach>CAD 4 - CAM 2</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>3</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>24.11.2017</Datum>
+  <Von>10:25:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Eckehard Diem</Lektoren>
+  <Gruppen>BST-5A2</Gruppen>
+  <Lehrfach>CAD 4 - CAM 2</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>4</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>24.11.2017</Datum>
+  <Von>14:30:00</Von>
+  <Bis>18:35:00</Bis>
+  <Lektoren>Corinna Engelhardt-Nowitzki, Andreas Gallasch, Horst Orsolits</Lektoren>
+  <Gruppen>MMR-1  </Gruppen>
+  <Lehrfach>Intelligent Manufacturing Systems</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>9</StundeVon>
+  <StundeBis>13</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>27.11.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Mathias Ballner</Lektoren>
+  <Gruppen>BVU-3A </Gruppen>
+  <Lehrfach>Datenbanken und Datenmanagement</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>4</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>28.11.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>10:25:00</Bis>
+  <Lektoren>Markus Eckelt, Stefan Litzenberger, Franziska Mally</Lektoren>
+  <Gruppen>BST-3SEM3</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>3</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>28.11.2017</Datum>
+  <Von>10:25:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Dieter Dummy</Lektoren>
+  <Gruppen>BST-3SEM3</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>4</StundeVon>
+  <StundeBis>4</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>28.11.2017</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Markus Eckelt, Stefan Litzenberger</Lektoren>
+  <Gruppen>BST-3SEM3</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>5</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>28.11.2017</Datum>
+  <Von>12:05:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Dieter Dummy</Lektoren>
+  <Gruppen>BST-3SEM3</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>6</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>28.11.2017</Datum>
+  <Von>12:50:00</Von>
+  <Bis>13:35:00</Bis>
+  <Lektoren>Markus Eckelt, Stefan Litzenberger, Franziska Mally</Lektoren>
+  <Gruppen>BST-3SEM4</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>7</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>28.11.2017</Datum>
+  <Von>13:35:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Dieter Dummy</Lektoren>
+  <Gruppen>BST-3SEM4</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>8</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>28.11.2017</Datum>
+  <Von>14:30:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Markus Eckelt, Stefan Litzenberger</Lektoren>
+  <Gruppen>BST-3SEM4</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>9</StundeVon>
+  <StundeBis>10</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>28.11.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Marcel Borik</Lektoren>
+  <Gruppen>MWI-3P  / ECI-0INC033,ECI-0INC033</Gruppen>
+  <Lehrfach>Knowledge and Document Management</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>29.11.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Bernhard Bielesch</Lektoren>
+  <Gruppen>MWI-1SAPG</Gruppen>
+  <Lehrfach>SAP Grundlagen (Spezialisierung)  </Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>30.11.2017</Datum>
+  <Von>08:00:00</Von>
+  <Bis>09:30:00</Bis>
+  <Lektoren>Alexander Hofmann, Arthur Michael Zaczek</Lektoren>
+  <Gruppen>BIF-3A </Gruppen>
+  <Lehrfach>Software Engineering 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>2</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>30.11.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Alexander Hofmann, Arthur Michael Zaczek</Lektoren>
+  <Gruppen>BIF-3B </Gruppen>
+  <Lehrfach>Software Engineering 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>4</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>30.11.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Alexander-Philipp Lintenhofer</Lektoren>
+  <Gruppen>MIC-1A </Gruppen>
+  <Lehrfach>IT-Sicherheit</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>30.11.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Alexander-Philipp Lintenhofer</Lektoren>
+  <Gruppen>MIC-1B </Gruppen>
+  <Lehrfach>IT-Sicherheit</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>01.12.2017</Datum>
+  <Von>08:00:00</Von>
+  <Bis>09:30:00</Bis>
+  <Lektoren>Eckehard Diem</Lektoren>
+  <Gruppen>BST-5A2</Gruppen>
+  <Lehrfach>CAD 4 - CAM 2</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>2</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>01.12.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Eckehard Diem</Lektoren>
+  <Gruppen>BST-5A1</Gruppen>
+  <Lehrfach>CAD 4 - CAM 2</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>4</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>01.12.2017</Datum>
+  <Von>12:50:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>David Meyer</Lektoren>
+  <Gruppen>BWI-3V1 / BWI-3V2,BWI-3V2</Gruppen>
+  <Lehrfach>Enterprise Resource Planning Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>10</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>01.12.2017</Datum>
+  <Von>16:10:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>David Meyer</Lektoren>
+  <Gruppen>BWI-3V3 / BWI-3V4,BWI-3V4</Gruppen>
+  <Lehrfach>Enterprise Resource Planning Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>11</StundeVon>
+  <StundeBis>14</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>04.12.2017</Datum>
+  <Von>10:25:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Mathias Ballner</Lektoren>
+  <Gruppen>BVU-3A </Gruppen>
+  <Lehrfach>Datenbanken und Datenmanagement</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>4</StundeVon>
+  <StundeBis>5</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>05.12.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>10:25:00</Bis>
+  <Lektoren>Markus Eckelt, Stefan Litzenberger, Franziska Mally</Lektoren>
+  <Gruppen>BST-3SEM1</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>3</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>05.12.2017</Datum>
+  <Von>10:25:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Dieter Dummy</Lektoren>
+  <Gruppen>BST-3SEM1</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>4</StundeVon>
+  <StundeBis>4</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>05.12.2017</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Markus Eckelt, Stefan Litzenberger</Lektoren>
+  <Gruppen>BST-3SEM1</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>5</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>05.12.2017</Datum>
+  <Von>12:05:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Dieter Dummy</Lektoren>
+  <Gruppen>BST-3SEM1</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>6</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>05.12.2017</Datum>
+  <Von>12:50:00</Von>
+  <Bis>13:35:00</Bis>
+  <Lektoren>Markus Eckelt, Stefan Litzenberger, Franziska Mally</Lektoren>
+  <Gruppen>BST-3SEM2</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>7</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>05.12.2017</Datum>
+  <Von>13:35:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Dieter Dummy</Lektoren>
+  <Gruppen>BST-3SEM2</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>8</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>05.12.2017</Datum>
+  <Von>14:30:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Markus Eckelt, Stefan Litzenberger</Lektoren>
+  <Gruppen>BST-3SEM2</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>9</StundeVon>
+  <StundeBis>10</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>05.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Paul Varga</Lektoren>
+  <Gruppen>BWI-5B </Gruppen>
+  <Lehrfach>IT-Sicherheit Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>06.12.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Gerd Holweg</Lektoren>
+  <Gruppen>BIF-5BDG</Gruppen>
+  <Lehrfach>Big Data Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>06.12.2017</Datum>
+  <Von>12:50:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Thomas Duncan</Lektoren>
+  <Gruppen>BIF-5SAA</Gruppen>
+  <Lehrfach>Signal Acquisition and Analysis</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>8</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>06.12.2017</Datum>
+  <Von>14:30:00</Von>
+  <Bis>17:40:00</Bis>
+  <Lektoren>Mathias Ballner</Lektoren>
+  <Gruppen>BWI-5SCI</Gruppen>
+  <Lehrfach>Smart City Anwendungen  </Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>9</StundeVon>
+  <StundeBis>12</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>06.12.2017</Datum>
+  <Von>18:35:00</Von>
+  <Bis>20:15:00</Bis>
+  <Lektoren>Alexander Schaller, Khaled Sharaf Eldin</Lektoren>
+  <Gruppen>BWI-1V </Gruppen>
+  <Lehrfach>Tutorium Programmierung 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>14</StundeVon>
+  <StundeBis>15</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>07.12.2017</Datum>
+  <Von>08:45:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Nikolaus Krondraf</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>Grundlegende Aspekte der Programmierung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>2</StundeVon>
+  <StundeBis>4</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>07.12.2017</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Philipp Urbauer</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>Grundlegende Aspekte der Programmierung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>07.12.2017</Datum>
+  <Von>15:15:00</Von>
+  <Bis>16:55:00</Bis>
+  <Lektoren>Gerd Hesina</Lektoren>
+  <Gruppen>BIF-5CGSE</Gruppen>
+  <Lehrfach>Computer Grafik &amp; Special Effects</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>10</StundeVon>
+  <StundeBis>11</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>07.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Franz Hoheiser-Pförtner</Lektoren>
+  <Gruppen>MIC-1A </Gruppen>
+  <Lehrfach>Sicherheitsstrukturen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>07.12.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Franz Hoheiser-Pförtner</Lektoren>
+  <Gruppen>MIC-1B </Gruppen>
+  <Lehrfach>Sicherheitsstrukturen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>11.12.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Maximilian Knor</Lektoren>
+  <Gruppen>BIF-5SKSC1</Gruppen>
+  <Lehrfach>Softwarekomponentensysteme</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>4</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>11.12.2017</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Maximilian Knor</Lektoren>
+  <Gruppen>BIF-5SKSC2</Gruppen>
+  <Lehrfach>Softwarekomponentensysteme</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>12.12.2017</Datum>
+  <Von>08:45:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Nikolaus Krondraf</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>Grundlegende Aspekte der Programmierung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>2</StundeVon>
+  <StundeBis>4</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>12.12.2017</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Philipp Urbauer</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>Grundlegende Aspekte der Programmierung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>12.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Marcel Borik</Lektoren>
+  <Gruppen>MWI-3P  / ECI-0INC033,ECI-0INC033</Gruppen>
+  <Lehrfach>Knowledge and Document Management</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>13.12.2017</Datum>
+  <Von>08:45:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Nikolaus Krondraf</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>Internettechnologien</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>2</StundeVon>
+  <StundeBis>4</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>13.12.2017</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Birgit Pohn</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>Internettechnologien</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>13.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Martin Docsek</Lektoren>
+  <Gruppen>BWI-5MOCbb</Gruppen>
+  <Lehrfach>Mobile Computing Anwendungen </Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>14.12.2017</Datum>
+  <Von>08:45:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Benedikt Salzbrunn</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>Software Usability</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>2</StundeVon>
+  <StundeBis>4</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>14.12.2017</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Felix Mitterer</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>Software Usability</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>14.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Alexander-Philipp Lintenhofer</Lektoren>
+  <Gruppen>MIC-1A </Gruppen>
+  <Lehrfach>IT-Sicherheit</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>14.12.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Alexander-Philipp Lintenhofer</Lektoren>
+  <Gruppen>MIC-1B </Gruppen>
+  <Lehrfach>IT-Sicherheit</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>15.12.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Dietmar Schreiner</Lektoren>
+  <Gruppen>MGS-1  </Gruppen>
+  <Lehrfach>Künstliche Intelligenz</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>5</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>15.12.2017</Datum>
+  <Von>12:50:00</Von>
+  <Bis>15:15:00</Bis>
+  <Lektoren>Dietmar Schreiner</Lektoren>
+  <Gruppen>MGS-1  </Gruppen>
+  <Lehrfach>Künstliche Intelligenz</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>9</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>19.12.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>10:25:00</Bis>
+  <Lektoren>Markus Eckelt, Stefan Litzenberger</Lektoren>
+  <Gruppen>BST-3SEM3</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>3</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>19.12.2017</Datum>
+  <Von>10:25:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Dieter Dummy</Lektoren>
+  <Gruppen>BST-3SEM3</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>4</StundeVon>
+  <StundeBis>4</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>19.12.2017</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Markus Eckelt, Stefan Litzenberger</Lektoren>
+  <Gruppen>BST-3SEM3</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>5</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>19.12.2017</Datum>
+  <Von>12:05:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Dieter Dummy</Lektoren>
+  <Gruppen>BST-3SEM3</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>6</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>19.12.2017</Datum>
+  <Von>12:50:00</Von>
+  <Bis>13:35:00</Bis>
+  <Lektoren>Markus Eckelt, Stefan Litzenberger</Lektoren>
+  <Gruppen>BST-3SEM4</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>7</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>19.12.2017</Datum>
+  <Von>13:35:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Dieter Dummy</Lektoren>
+  <Gruppen>BST-3SEM4</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>8</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>19.12.2017</Datum>
+  <Von>14:30:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Markus Eckelt, Stefan Litzenberger</Lektoren>
+  <Gruppen>BST-3SEM4</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>9</StundeVon>
+  <StundeBis>10</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>19.12.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Harald Wahl</Lektoren>
+  <Gruppen>MSC-1P1</Gruppen>
+  <Lehrfach>Projektarbeit 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>20.12.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Gerd Holweg</Lektoren>
+  <Gruppen>BIF-5BDG</Gruppen>
+  <Lehrfach>Big Data Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>20.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Bernhard Bielesch</Lektoren>
+  <Gruppen>MWI-1SAPG</Gruppen>
+  <Lehrfach>SAP Grundlagen (Spezialisierung)  </Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>21.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Alexander-Philipp Lintenhofer</Lektoren>
+  <Gruppen>MIC-1A </Gruppen>
+  <Lehrfach>IT-Sicherheit</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>21.12.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Alexander-Philipp Lintenhofer</Lektoren>
+  <Gruppen>MIC-1B </Gruppen>
+  <Lehrfach>IT-Sicherheit</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>09.01.2018</Datum>
+  <Von>09:40:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Markus Eckelt, Stefan Litzenberger</Lektoren>
+  <Gruppen>BST-3SEM1</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>5</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>09.01.2018</Datum>
+  <Von>12:05:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Dieter Dummy</Lektoren>
+  <Gruppen>BST-3SEM1</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>6</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>09.01.2018</Datum>
+  <Von>12:50:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Markus Eckelt, Stefan Litzenberger</Lektoren>
+  <Gruppen>BST-3SEM2</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>10</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>10.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Alexander Mense</Lektoren>
+  <Gruppen>MSC-3AK33b</Gruppen>
+  <Lehrfach>Integration und Nutzung vernetzter medizinischer IT Infrastrukturen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>11.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Alexander-Philipp Lintenhofer</Lektoren>
+  <Gruppen>MIC-1A </Gruppen>
+  <Lehrfach>IT-Sicherheit</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>11.01.2018</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Alexander-Philipp Lintenhofer</Lektoren>
+  <Gruppen>MIC-1B </Gruppen>
+  <Lehrfach>IT-Sicherheit</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>16.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Harald Wahl</Lektoren>
+  <Gruppen>MSC-1P1</Gruppen>
+  <Lehrfach>Projektarbeit 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>17.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Philipp Urbauer</Lektoren>
+  <Gruppen>MSC-3AK33b</Gruppen>
+  <Lehrfach>Crowd Sourced Healthcare in Smart Cities</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>18.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Alexander-Philipp Lintenhofer</Lektoren>
+  <Gruppen>MIC-1A </Gruppen>
+  <Lehrfach>IT-Sicherheit</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>18.01.2018</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Alexander-Philipp Lintenhofer</Lektoren>
+  <Gruppen>MIC-1B </Gruppen>
+  <Lehrfach>IT-Sicherheit</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>19.01.2018</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Dominik Ertl</Lektoren>
+  <Gruppen>BIF-1L1</Gruppen>
+  <Lehrfach>Webtechnologien 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>19.01.2018</Datum>
+  <Von>12:50:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Dominik Ertl</Lektoren>
+  <Gruppen>BIF-1L2</Gruppen>
+  <Lehrfach>Webtechnologien 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>8</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>23.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Franz Hoheiser-Pförtner</Lektoren>
+  <Gruppen>MIC-1A </Gruppen>
+  <Lehrfach>Sicherheitsstrukturen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>23.01.2018</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Franz Hoheiser-Pförtner</Lektoren>
+  <Gruppen>MIC-1B </Gruppen>
+  <Lehrfach>Sicherheitsstrukturen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>24.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Alexander Mense</Lektoren>
+  <Gruppen>MSC-3AK33b</Gruppen>
+  <Lehrfach>Integration und Nutzung vernetzter medizinischer IT Infrastrukturen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>31.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Alexander Mense</Lektoren>
+  <Gruppen>MSC-3AK33b</Gruppen>
+  <Lehrfach>Crowd Sourced Healthcare in Smart Cities</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+</Saalplan>

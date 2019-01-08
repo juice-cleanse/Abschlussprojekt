@@ -1,0 +1,15 @@
+h1{
+	text-align: center;
+	margin-top: 2em;
+	margin-bottom: 1em;
+}
+
+p{
+	text-align: justify;
+	font-size: large;
+	line-height: 2.5em;
+	margin-bottom:10%;
+}
+body{
+	background-color: #D3D3D3;
+}

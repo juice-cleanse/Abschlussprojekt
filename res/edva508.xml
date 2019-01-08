@@ -1,0 +1,1257 @@
+﻿<?xml version="1.0"?>
+<Saalplan raum="EDVA508">
+<LVDaten>
+  <Datum>20.11.2017</Datum>
+  <Von>08:45:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Martin Docsek</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>Datenbank Basics</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>2</StundeVon>
+  <StundeBis>5</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>20.11.2017</Datum>
+  <Von>12:05:00</Von>
+  <Bis>13:35:00</Bis>
+  <Lektoren>Martin Docsek</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>Datenbank Basics</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>6</StundeVon>
+  <StundeBis>7</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>20.11.2017</Datum>
+  <Von>13:35:00</Von>
+  <Bis>15:15:00</Bis>
+  <Lektoren>Josef Wagner</Lektoren>
+  <Gruppen>BVU-1SPZ1</Gruppen>
+  <Lehrfach>Programmieren, Algorithmen und Datenstrukturen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>9</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>21.11.2017</Datum>
+  <Von>08:45:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Nikolaus Krondraf</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>Grundlegende Aspekte der Programmierung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>2</StundeVon>
+  <StundeBis>4</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>21.11.2017</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Philipp Urbauer</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>Grundlegende Aspekte der Programmierung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>21.11.2017</Datum>
+  <Von>12:50:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Josef Wagner</Lektoren>
+  <Gruppen>BVU-1SPZ2</Gruppen>
+  <Lehrfach>Programmieren, Algorithmen und Datenstrukturen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>8</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>21.11.2017</Datum>
+  <Von>14:30:00</Von>
+  <Bis>16:55:00</Bis>
+  <Lektoren>Michael Heer</Lektoren>
+  <Gruppen>BBE-3PCB2</Gruppen>
+  <Lehrfach>Printed Circuit Board</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>9</StundeVon>
+  <StundeBis>11</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>21.11.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Florian Gerstmayer</Lektoren>
+  <Gruppen>BIC-1A1</Gruppen>
+  <Lehrfach>Programmieren Repetitorium</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>21.11.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Florian Gerstmayer</Lektoren>
+  <Gruppen>BIC-1B1</Gruppen>
+  <Lehrfach>Programmieren Repetitorium</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>22.11.2017</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Thomas Duncan</Lektoren>
+  <Gruppen>BIF-5SAA</Gruppen>
+  <Lehrfach>Signal Acquisition and Analysis</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>22.11.2017</Datum>
+  <Von>12:50:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Markus Eckelt</Lektoren>
+  <Gruppen>BST-3  </Gruppen>
+  <Lehrfach>Angewandte Messtechnik im Sportgeräteprüfwesen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>8</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>22.11.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Gernot Schmied</Lektoren>
+  <Gruppen>MIC-1WF7</Gruppen>
+  <Lehrfach>Wahlpflichtfach: Forensik</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>23.11.2017</Datum>
+  <Von>08:00:00</Von>
+  <Bis>09:30:00</Bis>
+  <Lektoren>Harald Steinlechner</Lektoren>
+  <Gruppen>BIF-5FUS</Gruppen>
+  <Lehrfach>Funktionale Sprachen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>2</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>23.11.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Thomas Duncan</Lektoren>
+  <Gruppen>BBE-1A1</Gruppen>
+  <Lehrfach>Strukturierte Programmierung in der biomedizinischen Technik</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>4</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>23.11.2017</Datum>
+  <Von>12:05:00</Von>
+  <Bis>13:35:00</Bis>
+  <Lektoren>Andreas Puhm</Lektoren>
+  <Gruppen>BIF-5DS2</Gruppen>
+  <Lehrfach>Digital Systems 2</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>6</StundeVon>
+  <StundeBis>7</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>23.11.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Marcel Borik</Lektoren>
+  <Gruppen>MWI-3B </Gruppen>
+  <Lehrfach>Wissens- und Dokumentenmanagement</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>24.11.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Thomas Duncan</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>IT Architekturen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>5</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>24.11.2017</Datum>
+  <Von>12:05:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Felix Mitterer</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>IT Architekturen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>6</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>24.11.2017</Datum>
+  <Von>13:35:00</Von>
+  <Bis>15:15:00</Bis>
+  <Lektoren>Thomas Duncan</Lektoren>
+  <Gruppen>MMB-1A </Gruppen>
+  <Lehrfach>Objektorientierte Programmiertechniken für Simulationstools</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>9</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>24.11.2017</Datum>
+  <Von>15:15:00</Von>
+  <Bis>18:35:00</Bis>
+  <Lektoren>Alexander Sever</Lektoren>
+  <Gruppen>MST-3  </Gruppen>
+  <Lehrfach>Visualization and Design 2</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>10</StundeVon>
+  <StundeBis>13</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>25.11.2017</Datum>
+  <Von>08:00:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Wolfgang Neussner, Paul Oitzl, Martin Schwabl</Lektoren>
+  <Gruppen>BEW-5MTM1</Gruppen>
+  <Lehrfach>Fachmodul 1 Technologiemanagement</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>27.11.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Maximilian Knor</Lektoren>
+  <Gruppen>BIF-5SKSC1</Gruppen>
+  <Lehrfach>Softwarekomponentensysteme</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>4</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>27.11.2017</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Maximilian Knor</Lektoren>
+  <Gruppen>BIF-5SKSC2</Gruppen>
+  <Lehrfach>Softwarekomponentensysteme</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>27.11.2017</Datum>
+  <Von>12:50:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Matthias Frohner</Lektoren>
+  <Gruppen>BBE-5B  / ECI-0INC009 / ECI-0INC019 / ECI-0INC020,ECI-0INC009,ECI-0INC019,ECI-0INC020</Gruppen>
+  <Lehrfach>Mobile Computing in Medical Imaging and Data Engineering</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>8</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>27.11.2017</Datum>
+  <Von>14:30:00</Von>
+  <Bis>16:55:00</Bis>
+  <Lektoren>Lukas Traxler</Lektoren>
+  <Gruppen>BBE-5B  / ECI-0INC027,ECI-0INC027</Gruppen>
+  <Lehrfach>Signal Acquisition and Analysis</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>9</StundeVon>
+  <StundeBis>11</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>28.11.2017</Datum>
+  <Von>08:45:00</Von>
+  <Bis>10:25:00</Bis>
+  <Lektoren>Nikolaus Krondraf</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>Grundlegende Aspekte der Programmierung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>2</StundeVon>
+  <StundeBis>3</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>28.11.2017</Datum>
+  <Von>10:25:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Felix Mitterer</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>Software Usability</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>4</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>28.11.2017</Datum>
+  <Von>12:50:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Thomas Duncan</Lektoren>
+  <Gruppen>BIF-5BioInf</Gruppen>
+  <Lehrfach>Bioinformatics</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>8</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>28.11.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Wolfgang Aigner</Lektoren>
+  <Gruppen>MSE-3CPIS</Gruppen>
+  <Lehrfach>Cloud Plattformen und IT Sicherheit</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>28.11.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Gerd Holweg</Lektoren>
+  <Gruppen>MIC-1AK2A</Gruppen>
+  <Lehrfach>Projektarbeit 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>29.11.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Esther Gruber</Lektoren>
+  <Gruppen>vu-5</Gruppen>
+  <Lehrfach>Tutorium  EDV_A6.08 - vu-5</Lehrfach>
+  <Anmerkung>Tutorium</Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>5</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>29.11.2017</Datum>
+  <Von>12:05:00</Von>
+  <Bis>13:35:00</Bis>
+  <Lektoren>Alexander Nimmervoll</Lektoren>
+  <Gruppen>BIF-1A </Gruppen>
+  <Lehrfach>Einführung in die Informatik</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>6</StundeVon>
+  <StundeBis>7</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>29.11.2017</Datum>
+  <Von>13:35:00</Von>
+  <Bis>15:15:00</Bis>
+  <Lektoren>Alexander Nimmervoll</Lektoren>
+  <Gruppen>BIF-1B </Gruppen>
+  <Lehrfach>Einführung in die Informatik</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>9</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>29.11.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Gernot Schmied</Lektoren>
+  <Gruppen>MIC-1WF7</Gruppen>
+  <Lehrfach>Wahlpflichtfach: Forensik</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>30.11.2017</Datum>
+  <Von>08:45:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Johannes Martinek</Lektoren>
+  <Gruppen>BBE-5D  / ECI-0INC009 / ECI-0INC014 / ECI-0INC018,ECI-0INC009,ECI-0INC014,ECI-0INC018</Gruppen>
+  <Lehrfach>Modelling and Simulation</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>2</StundeVon>
+  <StundeBis>5</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>30.11.2017</Datum>
+  <Von>16:10:00</Von>
+  <Bis>18:35:00</Bis>
+  <Lektoren>Markus Bader</Lektoren>
+  <Gruppen>BIF-5RAD</Gruppen>
+  <Lehrfach>Robotics Application Development</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>11</StundeVon>
+  <StundeBis>13</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>30.11.2017</Datum>
+  <Von>18:35:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Francesco Moscato</Lektoren>
+  <Gruppen>MBE-1MCS / ECI-0INC014,ECI-0INC014</Gruppen>
+  <Lehrfach>Modelling in Cardiovascular Systems</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>14</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>01.12.2017</Datum>
+  <Von>13:35:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Wilfried Kubinger</Lektoren>
+  <Gruppen>MMB-1A </Gruppen>
+  <Lehrfach>Datengenerierung und -analyse / Datamining im Maschinenbau</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>10</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>02.12.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Martin Schwabl</Lektoren>
+  <Gruppen>tw-</Gruppen>
+  <Lehrfach>BEW5bb  EDV_A6.08 - tw-</Lehrfach>
+  <Anmerkung>BEW5bb</Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>04.12.2017</Datum>
+  <Von>08:45:00</Von>
+  <Bis>13:35:00</Bis>
+  <Lektoren>Martin Docsek</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>Datenbank Basics</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>2</StundeVon>
+  <StundeBis>7</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>04.12.2017</Datum>
+  <Von>14:30:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Bernhard Löwenstein</Lektoren>
+  <Gruppen>BIF-5JAVA1</Gruppen>
+  <Lehrfach>Softwarekomponentensysteme</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>9</StundeVon>
+  <StundeBis>10</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>04.12.2017</Datum>
+  <Von>16:10:00</Von>
+  <Bis>17:40:00</Bis>
+  <Lektoren>Bernhard Löwenstein</Lektoren>
+  <Gruppen>BIF-5JAVA2</Gruppen>
+  <Lehrfach>Softwarekomponentensysteme</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>11</StundeVon>
+  <StundeBis>12</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>05.12.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Thomas Duncan</Lektoren>
+  <Gruppen>MMB-1B </Gruppen>
+  <Lehrfach>Objektorientierte Programmiertechniken für Simulationstools</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>4</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>05.12.2017</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Thomas Duncan</Lektoren>
+  <Gruppen>MMB-1A </Gruppen>
+  <Lehrfach>Objektorientierte Programmiertechniken für Simulationstools</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>05.12.2017</Datum>
+  <Von>12:50:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Thomas Duncan</Lektoren>
+  <Gruppen>BIF-5BioInf</Gruppen>
+  <Lehrfach>Bioinformatics</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>8</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>05.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Marcel Borik</Lektoren>
+  <Gruppen>MWI-3P  / ECI-0INC033,ECI-0INC033</Gruppen>
+  <Lehrfach>Knowledge and Document Management</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>06.12.2017</Datum>
+  <Von>08:45:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Nikolaus Krondraf</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>Internettechnologien</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>2</StundeVon>
+  <StundeBis>4</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>06.12.2017</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Birgit Pohn</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>Internettechnologien</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>06.12.2017</Datum>
+  <Von>12:50:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Gerd Holweg, Werner Wopienka</Lektoren>
+  <Gruppen>BIF-3B </Gruppen>
+  <Lehrfach>Datenbanksysteme</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>8</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>06.12.2017</Datum>
+  <Von>14:30:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Gerd Holweg, Werner Wopienka</Lektoren>
+  <Gruppen>BIF-3A </Gruppen>
+  <Lehrfach>Datenbanksysteme</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>9</StundeVon>
+  <StundeBis>10</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>06.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Gernot Schmied</Lektoren>
+  <Gruppen>MIC-1WF7</Gruppen>
+  <Lehrfach>Wahlpflichtfach: Forensik</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>07.12.2017</Datum>
+  <Von>08:00:00</Von>
+  <Bis>10:25:00</Bis>
+  <Lektoren>Michael Heer</Lektoren>
+  <Gruppen>BEL-3A  / BEL-5  ,BEL-5  </Gruppen>
+  <Lehrfach>Leiterplattenentwurf</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>3</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>07.12.2017</Datum>
+  <Von>10:25:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Markus Bader</Lektoren>
+  <Gruppen>BIF-5RAD</Gruppen>
+  <Lehrfach>Robotics Application Development</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>4</StundeVon>
+  <StundeBis>5</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>07.12.2017</Datum>
+  <Von>12:05:00</Von>
+  <Bis>13:35:00</Bis>
+  <Lektoren>Andreas Puhm</Lektoren>
+  <Gruppen>BIF-5DS2</Gruppen>
+  <Lehrfach>Digital Systems 2</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>6</StundeVon>
+  <StundeBis>7</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>07.12.2017</Datum>
+  <Von>15:15:00</Von>
+  <Bis>16:55:00</Bis>
+  <Lektoren>Thomas Duncan</Lektoren>
+  <Gruppen>BBE-5B  / ECI-0INC009 / ECI-0INC027,ECI-0INC009,ECI-0INC027</Gruppen>
+  <Lehrfach>Bioinformatics</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>10</StundeVon>
+  <StundeBis>11</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>07.12.2017</Datum>
+  <Von>16:55:00</Von>
+  <Bis>18:35:00</Bis>
+  <Lektoren>Bernhard Löwenstein</Lektoren>
+  <Gruppen>BIF-5JAVA1</Gruppen>
+  <Lehrfach>Softwarekomponentensysteme</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>12</StundeVon>
+  <StundeBis>13</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>07.12.2017</Datum>
+  <Von>18:35:00</Von>
+  <Bis>20:15:00</Bis>
+  <Lektoren>Bernhard Löwenstein</Lektoren>
+  <Gruppen>BIF-5JAVA2</Gruppen>
+  <Lehrfach>Softwarekomponentensysteme</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>14</StundeVon>
+  <StundeBis>15</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>11.12.2017</Datum>
+  <Von>08:45:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Martin Docsek</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>Datenbank Basics</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>2</StundeVon>
+  <StundeBis>5</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>11.12.2017</Datum>
+  <Von>12:05:00</Von>
+  <Bis>13:35:00</Bis>
+  <Lektoren>Martin Docsek</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>Datenbank Basics</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>6</StundeVon>
+  <StundeBis>7</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>11.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Bernhard Löwenstein</Lektoren>
+  <Gruppen>BIF-5JAVA1</Gruppen>
+  <Lehrfach>Softwarekomponentensysteme</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>11.12.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Bernhard Löwenstein</Lektoren>
+  <Gruppen>BIF-5JAVA2</Gruppen>
+  <Lehrfach>Softwarekomponentensysteme</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>12.12.2017</Datum>
+  <Von>08:45:00</Von>
+  <Bis>10:25:00</Bis>
+  <Lektoren>Matthias Frohner</Lektoren>
+  <Gruppen>BBE-5B  / ECI-0INC009 / ECI-0INC019 / ECI-0INC020,ECI-0INC009,ECI-0INC019,ECI-0INC020</Gruppen>
+  <Lehrfach>Mobile Computing in Medical Imaging and Data Engineering</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>2</StundeVon>
+  <StundeBis>3</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>12.12.2017</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Matthias Wenzl</Lektoren>
+  <Gruppen>BIF-5ESP</Gruppen>
+  <Lehrfach>Embedded Signal Processing</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>12.12.2017</Datum>
+  <Von>12:50:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Thomas Duncan</Lektoren>
+  <Gruppen>BBE-5B  / ECI-0INC009 / ECI-0INC027,ECI-0INC009,ECI-0INC027</Gruppen>
+  <Lehrfach>Bioinformatics</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>8</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>12.12.2017</Datum>
+  <Von>14:30:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Thomas Duncan</Lektoren>
+  <Gruppen>BIF-5BioInf</Gruppen>
+  <Lehrfach>Bioinformatics</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>9</StundeVon>
+  <StundeBis>10</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>12.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>20:15:00</Bis>
+  <Lektoren>Wolfgang Aigner</Lektoren>
+  <Gruppen>MSE-3CPIS</Gruppen>
+  <Lehrfach>Cloud Plattformen und IT Sicherheit</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>15</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>13.12.2017</Datum>
+  <Von>08:45:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Lukas Traxler</Lektoren>
+  <Gruppen>BBE-5B  / ECI-0INC027,ECI-0INC027</Gruppen>
+  <Lehrfach>Signal Acquisition and Analysis</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>2</StundeVon>
+  <StundeBis>4</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>13.12.2017</Datum>
+  <Von>15:15:00</Von>
+  <Bis>17:40:00</Bis>
+  <Lektoren>Florian Eckkrammer</Lektoren>
+  <Gruppen>tw-</Gruppen>
+  <Lehrfach>BWI Prüf  EDV_A6.08 - tw-</Lehrfach>
+  <Anmerkung>BWI Prüf</Anmerkung>
+  <StundeVon>10</StundeVon>
+  <StundeBis>12</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>13.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Matthias Neumayr</Lektoren>
+  <Gruppen>MIC-3WF6</Gruppen>
+  <Lehrfach>Wahlpflichtfach: Web Application Security</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>14.12.2017</Datum>
+  <Von>08:00:00</Von>
+  <Bis>10:25:00</Bis>
+  <Lektoren>Michael Heer</Lektoren>
+  <Gruppen>BEL-3A  / BEL-5  ,BEL-5  </Gruppen>
+  <Lehrfach>Leiterplattenentwurf</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>3</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>14.12.2017</Datum>
+  <Von>10:25:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Andreas Puhm</Lektoren>
+  <Gruppen>BIF-5DS2</Gruppen>
+  <Lehrfach>Digital Systems 2</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>4</StundeVon>
+  <StundeBis>5</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>14.12.2017</Datum>
+  <Von>13:35:00</Von>
+  <Bis>15:15:00</Bis>
+  <Lektoren>Thomas Mandl</Lektoren>
+  <Gruppen>BWI-1V3 / BWI-1V4,BWI-1V4</Gruppen>
+  <Lehrfach>Programmierung 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>9</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>14.12.2017</Datum>
+  <Von>15:15:00</Von>
+  <Bis>16:55:00</Bis>
+  <Lektoren>Thomas Mandl</Lektoren>
+  <Gruppen>BWI-1V1 / BWI-1V2,BWI-1V2</Gruppen>
+  <Lehrfach>Programmierung 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>10</StundeVon>
+  <StundeBis>11</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>14.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Eugen Robert Winfried Jiresch</Lektoren>
+  <Gruppen>MSE-1A  / ECI-0INC019 / ECI-0INC026,ECI-0INC019,ECI-0INC026</Gruppen>
+  <Lehrfach>Funktionale Programmierung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>15.12.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Felix Mitterer</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>IT Architekturen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>5</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>15.12.2017</Datum>
+  <Von>12:05:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Thomas Duncan</Lektoren>
+  <Gruppen>ESW-1  </Gruppen>
+  <Lehrfach>IT Architekturen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>6</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>15.12.2017</Datum>
+  <Von>13:35:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Wilfried Kubinger</Lektoren>
+  <Gruppen>MMB-1A </Gruppen>
+  <Lehrfach>Datengenerierung und -analyse / Datamining im Maschinenbau</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>10</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>18.12.2017</Datum>
+  <Von>08:00:00</Von>
+  <Bis>09:30:00</Bis>
+  <Lektoren>Maximilian Knor</Lektoren>
+  <Gruppen>BIF-5SKSC1</Gruppen>
+  <Lehrfach>Softwarekomponentensysteme</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>2</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>18.12.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Maximilian Knor</Lektoren>
+  <Gruppen>BIF-5SKSC2</Gruppen>
+  <Lehrfach>Softwarekomponentensysteme</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>4</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>18.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Bernhard Löwenstein</Lektoren>
+  <Gruppen>BIF-5JAVA1</Gruppen>
+  <Lehrfach>Softwarekomponentensysteme</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>18.12.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Bernhard Löwenstein</Lektoren>
+  <Gruppen>BIF-5JAVA2</Gruppen>
+  <Lehrfach>Softwarekomponentensysteme</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>19.12.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Josef Wagner</Lektoren>
+  <Gruppen>BVU-1SPZ1</Gruppen>
+  <Lehrfach>Programmieren, Algorithmen und Datenstrukturen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>4</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>19.12.2017</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Josef Wagner</Lektoren>
+  <Gruppen>BVU-1SPZ2</Gruppen>
+  <Lehrfach>Programmieren, Algorithmen und Datenstrukturen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>19.12.2017</Datum>
+  <Von>12:50:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Josef Wagner</Lektoren>
+  <Gruppen>BVU-1SPZ3</Gruppen>
+  <Lehrfach>Programmieren, Algorithmen und Datenstrukturen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>8</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>19.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Gerd Holweg</Lektoren>
+  <Gruppen>MIC-1AK2A</Gruppen>
+  <Lehrfach>Projektarbeit 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>19.12.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Alexander Mense</Lektoren>
+  <Gruppen>MIC-1AK2B</Gruppen>
+  <Lehrfach>Projektarbeit 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>20.12.2017</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Thomas Duncan</Lektoren>
+  <Gruppen>BIF-5SAA</Gruppen>
+  <Lehrfach>Signal Acquisition and Analysis</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>20.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Eugen Robert Winfried Jiresch</Lektoren>
+  <Gruppen>MSE-1B  / ECI-0INC032,ECI-0INC032</Gruppen>
+  <Lehrfach>Funktionale Programmierung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>20.12.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Eugen Robert Winfried Jiresch</Lektoren>
+  <Gruppen>MSE-1A  / ECI-0INC019 / ECI-0INC026,ECI-0INC019,ECI-0INC026</Gruppen>
+  <Lehrfach>Funktionale Programmierung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>21.12.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Andreas Puhm</Lektoren>
+  <Gruppen>BIF-5DS2</Gruppen>
+  <Lehrfach>Digital Systems 2</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>4</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>21.12.2017</Datum>
+  <Von>16:55:00</Von>
+  <Bis>18:35:00</Bis>
+  <Lektoren>Markus Bader</Lektoren>
+  <Gruppen>BIF-5RAD</Gruppen>
+  <Lehrfach>Robotics Application Development</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>12</StundeVon>
+  <StundeBis>13</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>22.12.2017</Datum>
+  <Von>13:35:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Wilfried Kubinger</Lektoren>
+  <Gruppen>MMB-1A </Gruppen>
+  <Lehrfach>Datengenerierung und -analyse / Datamining im Maschinenbau</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>10</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>08.01.2018</Datum>
+  <Von>15:15:00</Von>
+  <Bis>16:55:00</Bis>
+  <Lektoren>Bernhard Löwenstein</Lektoren>
+  <Gruppen>BIF-5JAVA1</Gruppen>
+  <Lehrfach>Softwarekomponentensysteme</Lehrfach>
+  <Anmerkung>Abgabegespräche</Anmerkung>
+  <StundeVon>10</StundeVon>
+  <StundeBis>11</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>08.01.2018</Datum>
+  <Von>16:55:00</Von>
+  <Bis>18:35:00</Bis>
+  <Lektoren>Bernhard Löwenstein</Lektoren>
+  <Gruppen>BIF-5JAVA2</Gruppen>
+  <Lehrfach>Softwarekomponentensysteme</Lehrfach>
+  <Anmerkung>Abgabegespräche</Anmerkung>
+  <StundeVon>12</StundeVon>
+  <StundeBis>13</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>09.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Gerd Holweg</Lektoren>
+  <Gruppen>MIC-1AK2A</Gruppen>
+  <Lehrfach>Projektarbeit 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>10.01.2018</Datum>
+  <Von>09:40:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Marion Steinwandtner</Lektoren>
+  <Gruppen>tw-</Gruppen>
+  <Lehrfach>EXCEL3  EDV_A6.08 - tw-</Lehrfach>
+  <Anmerkung>EXCEL3</Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>5</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>10.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Gerald Aufmuth</Lektoren>
+  <Gruppen>MIC-3WF1 / MSC-3AK33c,MSC-3AK33c</Gruppen>
+  <Lehrfach>Technische Konzepte Big Data</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>11.01.2018</Datum>
+  <Von>08:00:00</Von>
+  <Bis>09:30:00</Bis>
+  <Lektoren>Harald Steinlechner</Lektoren>
+  <Gruppen>BIF-5FUS</Gruppen>
+  <Lehrfach>Funktionale Sprachen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>2</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>11.01.2018</Datum>
+  <Von>09:40:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Andreas Puhm</Lektoren>
+  <Gruppen>BIF-5DS2</Gruppen>
+  <Lehrfach>Digital Systems 2</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>4</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>11.01.2018</Datum>
+  <Von>13:35:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Wilfried Kubinger</Lektoren>
+  <Gruppen>MMB-1A </Gruppen>
+  <Lehrfach>Datengenerierung und -analyse / Datamining im Maschinenbau</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>10</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>11.01.2018</Datum>
+  <Von>16:55:00</Von>
+  <Bis>18:35:00</Bis>
+  <Lektoren>Markus Bader</Lektoren>
+  <Gruppen>BIF-5RAD</Gruppen>
+  <Lehrfach>Robotics Application Development</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>12</StundeVon>
+  <StundeBis>13</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>12.01.2018</Datum>
+  <Von>14:30:00</Von>
+  <Bis>17:40:00</Bis>
+  <Lektoren>Christoph Wurm</Lektoren>
+  <Gruppen>BST-3B1</Gruppen>
+  <Lehrfach>CAD 2</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>9</StundeVon>
+  <StundeBis>12</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>15.01.2018</Datum>
+  <Von>09:40:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Marion Steinwandtner</Lektoren>
+  <Gruppen>tw-</Gruppen>
+  <Lehrfach>EXCELF  EDV_A6.08 - tw-</Lehrfach>
+  <Anmerkung>EXCELF</Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>5</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>16.01.2018</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Gerd Holweg</Lektoren>
+  <Gruppen>MIC-1AK2A</Gruppen>
+  <Lehrfach>Projektarbeit 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>17.01.2018</Datum>
+  <Von>09:40:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Marion Steinwandtner</Lektoren>
+  <Gruppen>tw-</Gruppen>
+  <Lehrfach>EXCEL2  EDV_A6.08 - tw-</Lehrfach>
+  <Anmerkung>EXCEL2</Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>5</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>17.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Florian Nentwich</Lektoren>
+  <Gruppen>MIC-3WF5</Gruppen>
+  <Lehrfach>Wahlpflichtfach: Reverse Engineering and Malware Analysis</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>18.01.2018</Datum>
+  <Von>16:55:00</Von>
+  <Bis>18:35:00</Bis>
+  <Lektoren>Markus Bader</Lektoren>
+  <Gruppen>BIF-5RAD</Gruppen>
+  <Lehrfach>Robotics Application Development</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>12</StundeVon>
+  <StundeBis>13</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>19.01.2018</Datum>
+  <Von>12:50:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Christian Kollmitzer</Lektoren>
+  <Gruppen>BEW-1D </Gruppen>
+  <Lehrfach>Electronic Design</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>8</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>19.01.2018</Datum>
+  <Von>14:30:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Dominik Dolezal</Lektoren>
+  <Gruppen>BEW-1D  / ECI-0INC010 / ECI-0INC022 / ECI-0INC031,ECI-0INC010,ECI-0INC022,ECI-0INC031</Gruppen>
+  <Lehrfach>Computer Science 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>9</StundeVon>
+  <StundeBis>10</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>19.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Johannes Gragger</Lektoren>
+  <Gruppen>MIE-1  </Gruppen>
+  <Lehrfach>Wahlfach Matlab</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>24.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Mathias Ballner</Lektoren>
+  <Gruppen>MSC-3AK33a</Gruppen>
+  <Lehrfach>IT Sicherheit in Energie und Mobilität</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>27.01.2018</Datum>
+  <Von>08:00:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Robert Jonas, Ilse Müller</Lektoren>
+  <Gruppen>BEW-5MTK1 / ECI-0INC003,BEW-5MTK1,ECI-0INC003</Gruppen>
+  <Lehrfach>Fachmodul 1 Telekommunikation</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>29.01.2018</Datum>
+  <Von>13:35:00</Von>
+  <Bis>16:55:00</Bis>
+  <Lektoren>Sabrina Rubenzer</Lektoren>
+  <Gruppen>tw-</Gruppen>
+  <Lehrfach>rcj  EDV_A6.08 - tw-</Lehrfach>
+  <Anmerkung>rcj</Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>11</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>31.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Mathias Ballner</Lektoren>
+  <Gruppen>MSC-3AK33a</Gruppen>
+  <Lehrfach>IT Sicherheit in Energie und Mobilität</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+</LVDaten>
+</Saalplan>

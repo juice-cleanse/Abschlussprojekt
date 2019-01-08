@@ -1,0 +1,1921 @@
+﻿<?xml version="1.0"?>
+<Saalplan raum="EDVA206">
+<LVDaten>
+  <Datum>20.11.2017</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Thomas Zeitlhofer</Lektoren>
+  <Gruppen>BEL-3A </Gruppen>
+  <Lehrfach>Digitale Signalverarbeitung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>20.11.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Franz Kopica</Lektoren>
+  <Gruppen>BIC-3B </Gruppen>
+  <Lehrfach>Objektorientierte Dienstentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+</LVDaten>
+<LVDaten>
+  <Datum>20.11.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Franz Kopica</Lektoren>
+  <Gruppen>BIC-3A </Gruppen>
+  <Lehrfach>Objektorientierte Dienstentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>21.11.2017</Datum>
+  <Von>08:45:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Friedrich Praus</Lektoren>
+  <Gruppen>BSA-1   / EAS-1005,EAS-1005</Gruppen>
+  <Lehrfach>Software Entwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>2</StundeVon>
+  <StundeBis>5</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>21.11.2017</Datum>
+  <Von>12:05:00</Von>
+  <Bis>13:35:00</Bis>
+  <Lektoren>Arthur Michael Zaczek</Lektoren>
+  <Gruppen>BIF-5SWE3</Gruppen>
+  <Lehrfach>Software Engineering 3</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>6</StundeVon>
+  <StundeBis>7</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>21.11.2017</Datum>
+  <Von>13:35:00</Von>
+  <Bis>15:15:00</Bis>
+  <Lektoren>Thomas Mandl</Lektoren>
+  <Gruppen>BMR-1A  / BMR-1D1 / BMR-1D3 / EAS-1001 / EAS-1002 / EAS-1003,BMR-1D1,BMR-1D3,EAS-1001,EAS-1002,EAS-1003</Gruppen>
+  <Lehrfach>Programmieren, Algorithmen und Datenstrukturen 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>9</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>21.11.2017</Datum>
+  <Von>15:15:00</Von>
+  <Bis>16:55:00</Bis>
+  <Lektoren>Maria Cecilia Perroni</Lektoren>
+  <Gruppen>BMR-3  </Gruppen>
+  <Lehrfach>Steuerungstechnik und Feldbusse</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>10</StundeVon>
+  <StundeBis>11</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>21.11.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Tobias Hildebrandt</Lektoren>
+  <Gruppen>BWI-1B3 / BWI-1B4,BWI-1B4</Gruppen>
+  <Lehrfach>Datenbank Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>21.11.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Tobias Hildebrandt</Lektoren>
+  <Gruppen>BWI-1B1 / BWI-1B2,BWI-1B2</Gruppen>
+  <Lehrfach>Datenbank Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>22.11.2017</Datum>
+  <Von>08:00:00</Von>
+  <Bis>10:25:00</Bis>
+  <Lektoren>Michael Heer</Lektoren>
+  <Gruppen>BEL-1  </Gruppen>
+  <Lehrfach>Bauelemente und Simulation</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>3</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>22.11.2017</Datum>
+  <Von>12:05:00</Von>
+  <Bis>13:35:00</Bis>
+  <Lektoren>Thomas Zeitlhofer</Lektoren>
+  <Gruppen>BEL-3A </Gruppen>
+  <Lehrfach>Digitale Signalverarbeitung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>6</StundeVon>
+  <StundeBis>7</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>22.11.2017</Datum>
+  <Von>13:35:00</Von>
+  <Bis>15:15:00</Bis>
+  <Lektoren>Wilfried Wöber</Lektoren>
+  <Gruppen>MMB-1  </Gruppen>
+  <Lehrfach>Datengenerierung und -analyse / Datamining im Maschinenbau</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>9</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>22.11.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Oliver Wana</Lektoren>
+  <Gruppen>BWI-1B3 / BWI-1B4,BWI-1B4</Gruppen>
+  <Lehrfach>Algorithmen und Datenstrukturen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>22.11.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Oliver Wana</Lektoren>
+  <Gruppen>BWI-1B1 / BWI-1B2,BWI-1B2</Gruppen>
+  <Lehrfach>Algorithmen und Datenstrukturen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>23.11.2017</Datum>
+  <Von>08:00:00</Von>
+  <Bis>10:25:00</Bis>
+  <Lektoren>Michael Heer</Lektoren>
+  <Gruppen>BEL-3A  / BEL-5  ,BEL-5  </Gruppen>
+  <Lehrfach>Leiterplattenentwurf</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>3</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>23.11.2017</Datum>
+  <Von>10:25:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Alija Sabic</Lektoren>
+  <Gruppen>BSA-1   / EAS-1005,EAS-1005</Gruppen>
+  <Lehrfach>Software Entwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>4</StundeVon>
+  <StundeBis>5</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>23.11.2017</Datum>
+  <Von>12:50:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Alexander Mense</Lektoren>
+  <Gruppen>BIF-3A </Gruppen>
+  <Lehrfach>Datensicherheit 1</Lehrfach>
+  <Anmerkung>Prüfung</Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>8</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>23.11.2017</Datum>
+  <Von>14:30:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Alexander Mense</Lektoren>
+  <Gruppen>tw-</Gruppen>
+  <Lehrfach>BIF3-DAS  EDV_A2.06 - tw-</Lehrfach>
+  <Anmerkung>BIF3-DAS</Anmerkung>
+  <StundeVon>9</StundeVon>
+  <StundeBis>10</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>23.11.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Florian Eckkrammer</Lektoren>
+  <Gruppen>BWI-3B </Gruppen>
+  <Lehrfach>SW-Anwendungsentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>24.11.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Thomas Mandl</Lektoren>
+  <Gruppen>BMR-1A  / BMR-1D1 / BMR-1D3 / EAS-1001 / EAS-1002 / EAS-1003,BMR-1D1,BMR-1D3,EAS-1001,EAS-1002,EAS-1003</Gruppen>
+  <Lehrfach>Programmieren, Algorithmen und Datenstrukturen 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>4</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>24.11.2017</Datum>
+  <Von>13:35:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Eckehard Diem</Lektoren>
+  <Gruppen>MST-1  </Gruppen>
+  <Lehrfach>Mechanische Berechnungen im Sport I</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>10</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>24.11.2017</Datum>
+  <Von>16:10:00</Von>
+  <Bis>17:40:00</Bis>
+  <Lektoren>Maria Cecilia Perroni</Lektoren>
+  <Gruppen>BMR-3  </Gruppen>
+  <Lehrfach>Steuerungstechnik und Feldbusse</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>11</StundeVon>
+  <StundeBis>12</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>24.11.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Isabella Buber-Ennser</Lektoren>
+  <Gruppen>MTM-3  </Gruppen>
+  <Lehrfach>Statistische und qualitative Auswertungsverfahren</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>25.11.2017</Datum>
+  <Von>08:00:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Isabella Buber-Ennser</Lektoren>
+  <Gruppen>MTM-3  </Gruppen>
+  <Lehrfach>Statistische und qualitative Auswertungsverfahren</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>6</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>27.11.2017</Datum>
+  <Von>08:45:00</Von>
+  <Bis>10:25:00</Bis>
+  <Lektoren>René Pfeiffer</Lektoren>
+  <Gruppen>BVU-1  </Gruppen>
+  <Lehrfach>Heterogene Systeme</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>2</StundeVon>
+  <StundeBis>3</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>27.11.2017</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Thomas Zeitlhofer</Lektoren>
+  <Gruppen>BEL-3A </Gruppen>
+  <Lehrfach>Digitale Signalverarbeitung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>27.11.2017</Datum>
+  <Von>13:35:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Michael Heer</Lektoren>
+  <Gruppen>BBE-3PCB1</Gruppen>
+  <Lehrfach>Printed Circuit Board</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>10</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>27.11.2017</Datum>
+  <Von>16:10:00</Von>
+  <Bis>17:40:00</Bis>
+  <Lektoren>Christian Kaufmann</Lektoren>
+  <Gruppen>BVU-5A  / ECI-0INC003,ECI-0INC003</Gruppen>
+  <Lehrfach>Netzwerksicherheit</Lehrfach>
+  <Anmerkung>Prüfung</Anmerkung>
+  <StundeVon>11</StundeVon>
+  <StundeBis>12</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>27.11.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Franz Kopica</Lektoren>
+  <Gruppen>BIC-3B </Gruppen>
+  <Lehrfach>Objektorientierte Dienstentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>27.11.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Franz Kopica</Lektoren>
+  <Gruppen>BIC-3A </Gruppen>
+  <Lehrfach>Objektorientierte Dienstentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>28.11.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Christoph Veigl</Lektoren>
+  <Gruppen>BSA-3  </Gruppen>
+  <Lehrfach>Embedded Systems </Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>6</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>28.11.2017</Datum>
+  <Von>13:35:00</Von>
+  <Bis>15:15:00</Bis>
+  <Lektoren>Thomas Mandl</Lektoren>
+  <Gruppen>BMR-1A  / BMR-1D1 / BMR-1D3 / EAS-1001 / EAS-1002 / EAS-1003,BMR-1D1,BMR-1D3,EAS-1001,EAS-1002,EAS-1003</Gruppen>
+  <Lehrfach>Programmieren, Algorithmen und Datenstrukturen 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>9</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>28.11.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Andreas Cerny</Lektoren>
+  <Gruppen>BWI-1B1 / BWI-1B2,BWI-1B2</Gruppen>
+  <Lehrfach>Programmierung 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>28.11.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Andreas Cerny</Lektoren>
+  <Gruppen>BWI-1B3 / BWI-1B4,BWI-1B4</Gruppen>
+  <Lehrfach>Programmierung 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>29.11.2017</Datum>
+  <Von>08:00:00</Von>
+  <Bis>10:25:00</Bis>
+  <Lektoren>Michael Heer</Lektoren>
+  <Gruppen>BEL-1  </Gruppen>
+  <Lehrfach>Bauelemente und Simulation</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>3</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>29.11.2017</Datum>
+  <Von>12:05:00</Von>
+  <Bis>13:35:00</Bis>
+  <Lektoren>Thomas Zeitlhofer</Lektoren>
+  <Gruppen>BEL-3A </Gruppen>
+  <Lehrfach>Digitale Signalverarbeitung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>6</StundeVon>
+  <StundeBis>7</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>29.11.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Christoph Kappel, Alexander Nimmervoll</Lektoren>
+  <Gruppen>BWI-5CC</Gruppen>
+  <Lehrfach>Cloud Computing </Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>29.11.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Christoph Kappel, Alexander Nimmervoll</Lektoren>
+  <Gruppen>BWI-5CC</Gruppen>
+  <Lehrfach>Cloud Computing </Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>29.11.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Alexander Nimmervoll</Lektoren>
+  <Gruppen>BWI-5CC</Gruppen>
+  <Lehrfach>Cloud Computing </Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>30.11.2017</Datum>
+  <Von>10:25:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Alija Sabic</Lektoren>
+  <Gruppen>BSA-1   / EAS-1005,EAS-1005</Gruppen>
+  <Lehrfach>Software Entwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>4</StundeVon>
+  <StundeBis>5</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>30.11.2017</Datum>
+  <Von>13:35:00</Von>
+  <Bis>15:15:00</Bis>
+  <Lektoren>Maria Cecilia Perroni</Lektoren>
+  <Gruppen>BMR-3  </Gruppen>
+  <Lehrfach>Steuerungstechnik und Feldbusse</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>9</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>30.11.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Wolfgang Steindl</Lektoren>
+  <Gruppen>BWI-3B1 / BWI-3B2,BWI-3B2</Gruppen>
+  <Lehrfach>AK Tool-gestütztes SW-Engineering </Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>30.11.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Wolfgang Steindl</Lektoren>
+  <Gruppen>BWI-3B3 / BWI-3B4,BWI-3B4</Gruppen>
+  <Lehrfach>AK Tool-gestütztes SW-Engineering </Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>01.12.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Thomas Mandl</Lektoren>
+  <Gruppen>BMR-1A  / BMR-1D1 / BMR-1D3 / EAS-1001 / EAS-1002 / EAS-1003,BMR-1D1,BMR-1D3,EAS-1001,EAS-1002,EAS-1003</Gruppen>
+  <Lehrfach>Programmieren, Algorithmen und Datenstrukturen 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>4</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>01.12.2017</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Wolfgang Steindl</Lektoren>
+  <Gruppen>BWI-3V </Gruppen>
+  <Lehrfach>AK Tool-gestütztes SW-Engineering </Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>01.12.2017</Datum>
+  <Von>12:50:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Wolfgang Steindl</Lektoren>
+  <Gruppen>BWI-3V3 / BWI-3V4,BWI-3V4</Gruppen>
+  <Lehrfach>AK Tool-gestütztes SW-Engineering </Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>8</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>01.12.2017</Datum>
+  <Von>16:55:00</Von>
+  <Bis>18:35:00</Bis>
+  <Lektoren>Wolfgang Steindl</Lektoren>
+  <Gruppen>BWI-3V1 / BWI-3V2,BWI-3V2</Gruppen>
+  <Lehrfach>AK Tool-gestütztes SW-Engineering </Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>12</StundeVon>
+  <StundeBis>13</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>04.12.2017</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Thomas Zeitlhofer</Lektoren>
+  <Gruppen>BEL-3A </Gruppen>
+  <Lehrfach>Digitale Signalverarbeitung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>04.12.2017</Datum>
+  <Von>15:15:00</Von>
+  <Bis>16:55:00</Bis>
+  <Lektoren>Christian Kaufmann</Lektoren>
+  <Gruppen>BIF-1L </Gruppen>
+  <Lehrfach>Netzwerke Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>10</StundeVon>
+  <StundeBis>11</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>04.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Franz Kopica</Lektoren>
+  <Gruppen>BIC-3B </Gruppen>
+  <Lehrfach>Objektorientierte Dienstentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>04.12.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Franz Kopica</Lektoren>
+  <Gruppen>BIC-3A </Gruppen>
+  <Lehrfach>Objektorientierte Dienstentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>05.12.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Christoph Veigl</Lektoren>
+  <Gruppen>BSA-3  </Gruppen>
+  <Lehrfach>Embedded Systems </Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>6</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>05.12.2017</Datum>
+  <Von>13:35:00</Von>
+  <Bis>15:15:00</Bis>
+  <Lektoren>Thomas Mandl</Lektoren>
+  <Gruppen>BMR-1A  / BMR-1D1 / BMR-1D3 / EAS-1001 / EAS-1002 / EAS-1003,BMR-1D1,BMR-1D3,EAS-1001,EAS-1002,EAS-1003</Gruppen>
+  <Lehrfach>Programmieren, Algorithmen und Datenstrukturen 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>9</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>05.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Tobias Hildebrandt</Lektoren>
+  <Gruppen>BWI-1B3 / BWI-1B4,BWI-1B4</Gruppen>
+  <Lehrfach>Datenbank Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>05.12.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Tobias Hildebrandt</Lektoren>
+  <Gruppen>BWI-1B1 / BWI-1B2,BWI-1B2</Gruppen>
+  <Lehrfach>Datenbank Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>06.12.2017</Datum>
+  <Von>08:00:00</Von>
+  <Bis>10:25:00</Bis>
+  <Lektoren>Michael Heer</Lektoren>
+  <Gruppen>BEL-1  </Gruppen>
+  <Lehrfach>Bauelemente und Simulation</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>3</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>06.12.2017</Datum>
+  <Von>12:05:00</Von>
+  <Bis>13:35:00</Bis>
+  <Lektoren>Thomas Zeitlhofer</Lektoren>
+  <Gruppen>BEL-3A </Gruppen>
+  <Lehrfach>Digitale Signalverarbeitung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>6</StundeVon>
+  <StundeBis>7</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>06.12.2017</Datum>
+  <Von>14:30:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Thomas Mandl</Lektoren>
+  <Gruppen>BWI-1V3 / BWI-1V4,BWI-1V4</Gruppen>
+  <Lehrfach>Programmierung 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>9</StundeVon>
+  <StundeBis>10</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>06.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Robert Geißler</Lektoren>
+  <Gruppen>BIC-1A </Gruppen>
+  <Lehrfach>Grundlagen der Informatik</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>06.12.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Robert Geißler</Lektoren>
+  <Gruppen>BIC-1B </Gruppen>
+  <Lehrfach>Grundlagen der Informatik</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>07.12.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Thomas Mandl</Lektoren>
+  <Gruppen>BMR-1A  / BMR-1D1 / BMR-1D3 / EAS-1001 / EAS-1002 / EAS-1003,BMR-1D1,BMR-1D3,EAS-1001,EAS-1002,EAS-1003</Gruppen>
+  <Lehrfach>Programmieren, Algorithmen und Datenstrukturen 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>4</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>07.12.2017</Datum>
+  <Von>13:35:00</Von>
+  <Bis>15:15:00</Bis>
+  <Lektoren>Birgit Pohn</Lektoren>
+  <Gruppen>BWI-1V3 / BWI-1V4,BWI-1V4</Gruppen>
+  <Lehrfach>Web Technologien 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>9</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>07.12.2017</Datum>
+  <Von>15:15:00</Von>
+  <Bis>16:55:00</Bis>
+  <Lektoren>Birgit Pohn</Lektoren>
+  <Gruppen>BWI-1V1 / BWI-1V2,BWI-1V2</Gruppen>
+  <Lehrfach>Web Technologien 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>10</StundeVon>
+  <StundeBis>11</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>07.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Florian Eckkrammer</Lektoren>
+  <Gruppen>BWI-3B </Gruppen>
+  <Lehrfach>SW-Anwendungsentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>11.12.2017</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Thomas Zeitlhofer</Lektoren>
+  <Gruppen>BEL-3A </Gruppen>
+  <Lehrfach>Digitale Signalverarbeitung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>11.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Kai Höher, Franz Kopica</Lektoren>
+  <Gruppen>BIC-3B </Gruppen>
+  <Lehrfach>Objektorientierte Dienstentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>11.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Kai Höher, Franz Kopica</Lektoren>
+  <Gruppen>BIC-3B </Gruppen>
+  <Lehrfach>Objektorientierte Dienstentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>11.12.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Kai Höher, Franz Kopica</Lektoren>
+  <Gruppen>BIC-3A </Gruppen>
+  <Lehrfach>Objektorientierte Dienstentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>11.12.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Kai Höher, Franz Kopica</Lektoren>
+  <Gruppen>BIC-3A </Gruppen>
+  <Lehrfach>Objektorientierte Dienstentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>12.12.2017</Datum>
+  <Von>13:35:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Thomas Mandl</Lektoren>
+  <Gruppen>BMR-1A  / BMR-1D1 / BMR-1D3 / EAS-1001 / EAS-1002 / EAS-1003,BMR-1D1,BMR-1D3,EAS-1001,EAS-1002,EAS-1003</Gruppen>
+  <Lehrfach>Programmieren, Algorithmen und Datenstrukturen 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>10</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>12.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Oliver Wana</Lektoren>
+  <Gruppen>BWI-1B3 / BWI-1B4,BWI-1B4</Gruppen>
+  <Lehrfach>Algorithmen und Datenstrukturen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>12.12.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Oliver Wana</Lektoren>
+  <Gruppen>BWI-1B1 / BWI-1B2,BWI-1B2</Gruppen>
+  <Lehrfach>Algorithmen und Datenstrukturen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>13.12.2017</Datum>
+  <Von>08:00:00</Von>
+  <Bis>10:25:00</Bis>
+  <Lektoren>Michael Heer</Lektoren>
+  <Gruppen>BEL-1  </Gruppen>
+  <Lehrfach>Bauelemente und Simulation</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>3</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>13.12.2017</Datum>
+  <Von>12:05:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Mathias Ballner</Lektoren>
+  <Gruppen>BVU-3A </Gruppen>
+  <Lehrfach>Datenbanken und Datenmanagement</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>6</StundeVon>
+  <StundeBis>8</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>13.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Michael Schober</Lektoren>
+  <Gruppen>MIW-3B </Gruppen>
+  <Lehrfach>Enterprise Resource Planning</Lehrfach>
+  <Anmerkung>Prüfung</Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>13.12.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Michael Schober</Lektoren>
+  <Gruppen>MIW-3A </Gruppen>
+  <Lehrfach>Enterprise Resource Planning</Lehrfach>
+  <Anmerkung>Prüfung</Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>14.12.2017</Datum>
+  <Von>08:45:00</Von>
+  <Bis>10:25:00</Bis>
+  <Lektoren>Johannes Martinek</Lektoren>
+  <Gruppen>BBE-3PAM1</Gruppen>
+  <Lehrfach>Praktische Anwendungen von Matlab</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>2</StundeVon>
+  <StundeBis>3</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>14.12.2017</Datum>
+  <Von>10:25:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Alija Sabic</Lektoren>
+  <Gruppen>BSA-1   / EAS-1005,EAS-1005</Gruppen>
+  <Lehrfach>Software Entwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>4</StundeVon>
+  <StundeBis>5</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>14.12.2017</Datum>
+  <Von>12:05:00</Von>
+  <Bis>13:35:00</Bis>
+  <Lektoren>Christian Kaufmann</Lektoren>
+  <Gruppen>BWI-5V </Gruppen>
+  <Lehrfach>IT-Sicherheit Grundlagen</Lehrfach>
+  <Anmerkung>Wiederholungsprüfung</Anmerkung>
+  <StundeVon>6</StundeVon>
+  <StundeBis>7</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>14.12.2017</Datum>
+  <Von>14:30:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Wolfgang Steindl</Lektoren>
+  <Gruppen>BWI-3V </Gruppen>
+  <Lehrfach>AK Tool-gestütztes SW-Engineering </Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>9</StundeVon>
+  <StundeBis>10</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>14.12.2017</Datum>
+  <Von>16:10:00</Von>
+  <Bis>17:40:00</Bis>
+  <Lektoren>Christian Kaufmann</Lektoren>
+  <Gruppen>BIF-1L </Gruppen>
+  <Lehrfach>Netzwerke Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>11</StundeVon>
+  <StundeBis>12</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>15.12.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Thomas Mandl</Lektoren>
+  <Gruppen>BMR-1A  / BMR-1D1 / BMR-1D3 / EAS-1001 / EAS-1002 / EAS-1003,BMR-1D1,BMR-1D3,EAS-1001,EAS-1002,EAS-1003</Gruppen>
+  <Lehrfach>Programmieren, Algorithmen und Datenstrukturen 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>4</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>15.12.2017</Datum>
+  <Von>12:50:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Wolfgang Steindl</Lektoren>
+  <Gruppen>BWI-3V3 / BWI-3V4,BWI-3V4</Gruppen>
+  <Lehrfach>AK Tool-gestütztes SW-Engineering </Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>8</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>15.12.2017</Datum>
+  <Von>14:30:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Wolfgang Steindl</Lektoren>
+  <Gruppen>BWI-3V1 / BWI-3V2,BWI-3V2</Gruppen>
+  <Lehrfach>AK Tool-gestütztes SW-Engineering </Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>9</StundeVon>
+  <StundeBis>10</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>15.12.2017</Datum>
+  <Von>16:10:00</Von>
+  <Bis>17:40:00</Bis>
+  <Lektoren>Jürgen Riemer</Lektoren>
+  <Gruppen>LPW-1   / LPA-1  ,LPA-1  </Gruppen>
+  <Lehrfach>Scripting Introduction</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>11</StundeVon>
+  <StundeBis>12</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>15.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Florian Eckkrammer</Lektoren>
+  <Gruppen>LPW-1   / LPA-1  ,LPA-1  </Gruppen>
+  <Lehrfach>Einführung in die Programmierung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>19.12.2017</Datum>
+  <Von>12:50:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Franz Kopica</Lektoren>
+  <Gruppen>BIF-1A </Gruppen>
+  <Lehrfach>Netzwerke Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>8</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>19.12.2017</Datum>
+  <Von>14:30:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Franz Kopica</Lektoren>
+  <Gruppen>BIF-1B </Gruppen>
+  <Lehrfach>Netzwerke Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>9</StundeVon>
+  <StundeBis>10</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>19.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Paul Varga</Lektoren>
+  <Gruppen>BWI-5B </Gruppen>
+  <Lehrfach>IT-Sicherheit Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>20.12.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Maria Cecilia Perroni</Lektoren>
+  <Gruppen>BMR-3  </Gruppen>
+  <Lehrfach>Steuerungstechnik und Feldbusse</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>4</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>20.12.2017</Datum>
+  <Von>12:50:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Alexander Nimmervoll</Lektoren>
+  <Gruppen>BWI-1V1 / BWI-1V2,BWI-1V2</Gruppen>
+  <Lehrfach>Algorithmen und Datenstrukturen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>8</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>20.12.2017</Datum>
+  <Von>14:30:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Alexander Nimmervoll</Lektoren>
+  <Gruppen>BWI-1V3 / BWI-1V4,BWI-1V4</Gruppen>
+  <Lehrfach>Algorithmen und Datenstrukturen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>9</StundeVon>
+  <StundeBis>10</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>20.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Andreas Cerny</Lektoren>
+  <Gruppen>BWI-1B1 / BWI-1B2,BWI-1B2</Gruppen>
+  <Lehrfach>Programmierung 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>20.12.2017</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Andreas Cerny</Lektoren>
+  <Gruppen>BWI-1B3 / BWI-1B4,BWI-1B4</Gruppen>
+  <Lehrfach>Programmierung 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>21.12.2017</Datum>
+  <Von>12:50:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>David Meyer</Lektoren>
+  <Gruppen>BWI-3V1 / BWI-3V2,BWI-3V2</Gruppen>
+  <Lehrfach>ERP Navision Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>10</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>21.12.2017</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Florian Eckkrammer</Lektoren>
+  <Gruppen>BWI-3B </Gruppen>
+  <Lehrfach>SW-Anwendungsentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>22.12.2017</Datum>
+  <Von>09:40:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Thomas Mandl</Lektoren>
+  <Gruppen>BMR-1A  / BMR-1D1 / BMR-1D3 / EAS-1001 / EAS-1002 / EAS-1003,BMR-1D1,BMR-1D3,EAS-1001,EAS-1002,EAS-1003</Gruppen>
+  <Lehrfach>Programmieren, Algorithmen und Datenstrukturen 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>4</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>22.12.2017</Datum>
+  <Von>12:05:00</Von>
+  <Bis>13:35:00</Bis>
+  <Lektoren>Thomas Duncan</Lektoren>
+  <Gruppen>MMB-1A </Gruppen>
+  <Lehrfach>Objektorientierte Programmiertechniken für Simulationstools</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>6</StundeVon>
+  <StundeBis>7</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>22.12.2017</Datum>
+  <Von>13:35:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Thomas Duncan</Lektoren>
+  <Gruppen>MMB-1B </Gruppen>
+  <Lehrfach>Objektorientierte Programmiertechniken für Simulationstools</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>8</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>08.01.2018</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Thomas Zeitlhofer</Lektoren>
+  <Gruppen>BEL-3A </Gruppen>
+  <Lehrfach>Digitale Signalverarbeitung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>08.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Kai Höher, Franz Kopica</Lektoren>
+  <Gruppen>BIC-3B </Gruppen>
+  <Lehrfach>Objektorientierte Dienstentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>08.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Kai Höher, Franz Kopica</Lektoren>
+  <Gruppen>BIC-3B </Gruppen>
+  <Lehrfach>Objektorientierte Dienstentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>08.01.2018</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Kai Höher, Franz Kopica</Lektoren>
+  <Gruppen>BIC-3A </Gruppen>
+  <Lehrfach>Objektorientierte Dienstentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>08.01.2018</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Kai Höher, Franz Kopica</Lektoren>
+  <Gruppen>BIC-3A </Gruppen>
+  <Lehrfach>Objektorientierte Dienstentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>09.01.2018</Datum>
+  <Von>08:45:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Friedrich Praus</Lektoren>
+  <Gruppen>BSA-1   / EAS-1005,EAS-1005</Gruppen>
+  <Lehrfach>Software Entwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>2</StundeVon>
+  <StundeBis>5</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>10.01.2018</Datum>
+  <Von>08:00:00</Von>
+  <Bis>10:25:00</Bis>
+  <Lektoren>Michael Heer</Lektoren>
+  <Gruppen>BEL-1  </Gruppen>
+  <Lehrfach>Bauelemente und Simulation</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>3</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>10.01.2018</Datum>
+  <Von>12:05:00</Von>
+  <Bis>13:35:00</Bis>
+  <Lektoren>Thomas Zeitlhofer</Lektoren>
+  <Gruppen>BEL-3A </Gruppen>
+  <Lehrfach>Digitale Signalverarbeitung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>6</StundeVon>
+  <StundeBis>7</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>10.01.2018</Datum>
+  <Von>13:35:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Christian Braunshier</Lektoren>
+  <Gruppen>BBE-1  </Gruppen>
+  <Lehrfach>Allgemeine und organische Chemie und Polymerchemie</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>10</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>10.01.2018</Datum>
+  <Von>16:10:00</Von>
+  <Bis>17:40:00</Bis>
+  <Lektoren>Matthias Scherer</Lektoren>
+  <Gruppen>BMB-1A  / BMB-1B ,BMB-1B </Gruppen>
+  <Lehrfach>Technisches Zeichnen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>11</StundeVon>
+  <StundeBis>12</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>10.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Thomas Zeitlhofer</Lektoren>
+  <Gruppen>MTI-3B2 / ECI-0INC019 / ECI-0INC032,ECI-0INC019,ECI-0INC032</Gruppen>
+  <Lehrfach>Internet Applications and Services</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>10.01.2018</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Thomas Zeitlhofer</Lektoren>
+  <Gruppen>MTI-3B1</Gruppen>
+  <Lehrfach>Internet Applications and Services</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>11.01.2018</Datum>
+  <Von>08:00:00</Von>
+  <Bis>10:25:00</Bis>
+  <Lektoren>Michael Heer</Lektoren>
+  <Gruppen>BEL-3A  / BEL-5  ,BEL-5  </Gruppen>
+  <Lehrfach>Leiterplattenentwurf</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>3</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>11.01.2018</Datum>
+  <Von>10:25:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Alija Sabic</Lektoren>
+  <Gruppen>BSA-1   / EAS-1005,EAS-1005</Gruppen>
+  <Lehrfach>Software Entwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>4</StundeVon>
+  <StundeBis>5</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>11.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Wolfgang Steindl</Lektoren>
+  <Gruppen>BWI-3B1 / BWI-3B2,BWI-3B2</Gruppen>
+  <Lehrfach>AK Tool-gestütztes SW-Engineering </Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>11.01.2018</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Wolfgang Steindl</Lektoren>
+  <Gruppen>BWI-3B3 / BWI-3B4,BWI-3B4</Gruppen>
+  <Lehrfach>AK Tool-gestütztes SW-Engineering </Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>12.01.2018</Datum>
+  <Von>13:35:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Lars Mehnen</Lektoren>
+  <Gruppen>MMB-1B </Gruppen>
+  <Lehrfach>Objektorientierte Programmiertechniken für Simulationstools</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>8</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>13.01.2018</Datum>
+  <Von>08:00:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Michael Hajszan</Lektoren>
+  <Gruppen>BIW-3A </Gruppen>
+  <Lehrfach>CAE/CAM-Simulation</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>8</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>15.01.2018</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Thomas Zeitlhofer</Lektoren>
+  <Gruppen>BEL-3A </Gruppen>
+  <Lehrfach>Digitale Signalverarbeitung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>15.01.2018</Datum>
+  <Von>14:30:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Christian Kaufmann</Lektoren>
+  <Gruppen>BIF-1L </Gruppen>
+  <Lehrfach>Netzwerke Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>9</StundeVon>
+  <StundeBis>10</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>15.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Kai Höher, Franz Kopica</Lektoren>
+  <Gruppen>BIC-3B </Gruppen>
+  <Lehrfach>Objektorientierte Dienstentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>15.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Kai Höher, Franz Kopica</Lektoren>
+  <Gruppen>BIC-3B </Gruppen>
+  <Lehrfach>Objektorientierte Dienstentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>15.01.2018</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Kai Höher, Franz Kopica</Lektoren>
+  <Gruppen>BIC-3A </Gruppen>
+  <Lehrfach>Objektorientierte Dienstentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>15.01.2018</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Kai Höher, Franz Kopica</Lektoren>
+  <Gruppen>BIC-3A </Gruppen>
+  <Lehrfach>Objektorientierte Dienstentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>16.01.2018</Datum>
+  <Von>08:45:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Friedrich Praus</Lektoren>
+  <Gruppen>BSA-1   / EAS-1005,EAS-1005</Gruppen>
+  <Lehrfach>Software Entwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>2</StundeVon>
+  <StundeBis>5</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>16.01.2018</Datum>
+  <Von>16:10:00</Von>
+  <Bis>20:15:00</Bis>
+  <Lektoren>Michael Hajszan</Lektoren>
+  <Gruppen>BMB-1C  / BMB-1D  / ECI-0INC011,BMB-1D ,ECI-0INC011</Gruppen>
+  <Lehrfach>Technisches Zeichnen</Lehrfach>
+  <Anmerkung>Vorbereitung</Anmerkung>
+  <StundeVon>11</StundeVon>
+  <StundeBis>15</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>17.01.2018</Datum>
+  <Von>08:00:00</Von>
+  <Bis>10:25:00</Bis>
+  <Lektoren>Michael Heer</Lektoren>
+  <Gruppen>BEL-1  </Gruppen>
+  <Lehrfach>Bauelemente und Simulation</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>3</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>17.01.2018</Datum>
+  <Von>12:05:00</Von>
+  <Bis>13:35:00</Bis>
+  <Lektoren>Thomas Zeitlhofer</Lektoren>
+  <Gruppen>BEL-3A </Gruppen>
+  <Lehrfach>Digitale Signalverarbeitung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>6</StundeVon>
+  <StundeBis>7</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>17.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Thomas Zeitlhofer</Lektoren>
+  <Gruppen>MTI-3B1</Gruppen>
+  <Lehrfach>Internet Applications and Services</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>17.01.2018</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Thomas Zeitlhofer</Lektoren>
+  <Gruppen>MTI-3B2 / ECI-0INC019 / ECI-0INC032,ECI-0INC019,ECI-0INC032</Gruppen>
+  <Lehrfach>Internet Applications and Services</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>18.01.2018</Datum>
+  <Von>08:00:00</Von>
+  <Bis>10:25:00</Bis>
+  <Lektoren>Michael Heer</Lektoren>
+  <Gruppen>BEL-3A  / BEL-5  ,BEL-5  </Gruppen>
+  <Lehrfach>Leiterplattenentwurf</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>3</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>18.01.2018</Datum>
+  <Von>10:25:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Alija Sabic</Lektoren>
+  <Gruppen>BSA-1   / EAS-1005,EAS-1005</Gruppen>
+  <Lehrfach>Software Entwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>4</StundeVon>
+  <StundeBis>5</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>18.01.2018</Datum>
+  <Von>15:15:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Thomas Duncan</Lektoren>
+  <Gruppen>MMB-1A </Gruppen>
+  <Lehrfach>Objektorientierte Programmiertechniken für Simulationstools</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>10</StundeVon>
+  <StundeBis>10</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>18.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Dominik Dolezal</Lektoren>
+  <Gruppen>BEW-3TEIL2</Gruppen>
+  <Lehrfach>Informatik 3</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>19.01.2018</Datum>
+  <Von>08:45:00</Von>
+  <Bis>10:25:00</Bis>
+  <Lektoren>Dominik Ertl</Lektoren>
+  <Gruppen>BIF-1L </Gruppen>
+  <Lehrfach>Webtechnologien 1</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>2</StundeVon>
+  <StundeBis>3</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>19.01.2018</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Franz Kopica</Lektoren>
+  <Gruppen>MTI-3PW-2 / ECI-0INC005 / ECI-0INC026,ECI-0INC005,ECI-0INC026</Gruppen>
+  <Lehrfach>Current Technologies in Telecommunications and Internet</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>20.01.2018</Datum>
+  <Von>08:00:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Robert Jonas, Ilse Müller</Lektoren>
+  <Gruppen>BEW-5MTK1 / ECI-0INC003,BEW-5MTK1,ECI-0INC003</Gruppen>
+  <Lehrfach>Fachmodul 1 Telekommunikation</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>6</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>22.01.2018</Datum>
+  <Von>09:40:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Markus Eckelt, Stefan Litzenberger, Franziska Mally</Lektoren>
+  <Gruppen>MST-1A1,MST-1A2</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor</Lehrfach>
+  <Anmerkung>Prüfung</Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>4</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>22.01.2018</Datum>
+  <Von>09:40:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Markus Eckelt, Stefan Litzenberger, Franziska Mally</Lektoren>
+  <Gruppen>MST-1A1,MST-1A2</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor</Lehrfach>
+  <Anmerkung>Prüfung</Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>4</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>22.01.2018</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Thomas Zeitlhofer</Lektoren>
+  <Gruppen>BEL-3A </Gruppen>
+  <Lehrfach>Digitale Signalverarbeitung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>22.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Kai Höher, Franz Kopica</Lektoren>
+  <Gruppen>BIC-3B </Gruppen>
+  <Lehrfach>Objektorientierte Dienstentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>22.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Kai Höher, Franz Kopica</Lektoren>
+  <Gruppen>BIC-3B </Gruppen>
+  <Lehrfach>Objektorientierte Dienstentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>22.01.2018</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Kai Höher, Franz Kopica</Lektoren>
+  <Gruppen>BIC-3A </Gruppen>
+  <Lehrfach>Objektorientierte Dienstentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>22.01.2018</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Kai Höher, Franz Kopica</Lektoren>
+  <Gruppen>BIC-3A </Gruppen>
+  <Lehrfach>Objektorientierte Dienstentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>23.01.2018</Datum>
+  <Von>08:45:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Friedrich Praus</Lektoren>
+  <Gruppen>BSA-1   / EAS-1005,EAS-1005</Gruppen>
+  <Lehrfach>Software Entwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>2</StundeVon>
+  <StundeBis>5</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>23.01.2018</Datum>
+  <Von>13:35:00</Von>
+  <Bis>15:15:00</Bis>
+  <Lektoren>Christian Kaufmann</Lektoren>
+  <Gruppen>BIF-1L </Gruppen>
+  <Lehrfach>Netzwerke Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>8</StundeVon>
+  <StundeBis>9</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>23.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Tobias Hildebrandt</Lektoren>
+  <Gruppen>BWI-1B3 / BWI-1B4,BWI-1B4</Gruppen>
+  <Lehrfach>Datenbank Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>23.01.2018</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Tobias Hildebrandt</Lektoren>
+  <Gruppen>BWI-1B1 / BWI-1B2,BWI-1B2</Gruppen>
+  <Lehrfach>Datenbank Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>24.01.2018</Datum>
+  <Von>09:40:00</Von>
+  <Bis>11:10:00</Bis>
+  <Lektoren>Tobias Hildebrandt</Lektoren>
+  <Gruppen>BWI-1V1 / BWI-1V2,BWI-1V2</Gruppen>
+  <Lehrfach>Datenbank Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>3</StundeVon>
+  <StundeBis>4</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>24.01.2018</Datum>
+  <Von>11:20:00</Von>
+  <Bis>12:50:00</Bis>
+  <Lektoren>Tobias Hildebrandt</Lektoren>
+  <Gruppen>BWI-1V3 / BWI-1V4,BWI-1V4</Gruppen>
+  <Lehrfach>Datenbank Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>5</StundeVon>
+  <StundeBis>6</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>24.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Florian Eckkrammer</Lektoren>
+  <Gruppen>BWI-3B1 / BWI-3B2,BWI-3B2</Gruppen>
+  <Lehrfach>AK Tool-gestütztes SW-Engineering </Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>24.01.2018</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Florian Eckkrammer</Lektoren>
+  <Gruppen>BWI-3B3 / BWI-3B4,BWI-3B4</Gruppen>
+  <Lehrfach>AK Tool-gestütztes SW-Engineering </Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>25.01.2018</Datum>
+  <Von>10:25:00</Von>
+  <Bis>12:05:00</Bis>
+  <Lektoren>Alija Sabic</Lektoren>
+  <Gruppen>BSA-1   / EAS-1005,EAS-1005</Gruppen>
+  <Lehrfach>Software Entwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>4</StundeVon>
+  <StundeBis>5</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>25.01.2018</Datum>
+  <Von>12:50:00</Von>
+  <Bis>15:15:00</Bis>
+  <Lektoren>Markus Eckelt, Stefan Litzenberger</Lektoren>
+  <Gruppen>BST-3SEM1 / BST-3SEM2 / BST-3SEM3 / BST-3SEM4,BST-3SEM1,BST-3SEM2,BST-3SEM3,BST-3SEM4</Gruppen>
+  <Lehrfach>Messtechnisch unterstützte Bewegungsanalyse Labor 1</Lehrfach>
+  <Anmerkung>Prüfung</Anmerkung>
+  <StundeVon>7</StundeVon>
+  <StundeBis>9</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>26.01.2018</Datum>
+  <Von>08:45:00</Von>
+  <Bis>10:25:00</Bis>
+  <Lektoren>Bernhard Lueger</Lektoren>
+  <Gruppen>BWI-5V </Gruppen>
+  <Lehrfach>SW-Security</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>2</StundeVon>
+  <StundeBis>3</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>26.01.2018</Datum>
+  <Von>14:30:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Christoph Wurm</Lektoren>
+  <Gruppen>BST-3B1</Gruppen>
+  <Lehrfach>CAD 2</Lehrfach>
+  <Anmerkung>Prüfung</Anmerkung>
+  <StundeVon>9</StundeVon>
+  <StundeBis>10</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>27.01.2018</Datum>
+  <Von>08:00:00</Von>
+  <Bis>14:20:00</Bis>
+  <Lektoren>Michael Hajszan</Lektoren>
+  <Gruppen>BIW-3A </Gruppen>
+  <Lehrfach>CAE/CAM-Simulation</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>1</StundeVon>
+  <StundeBis>8</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>29.01.2018</Datum>
+  <Von>14:30:00</Von>
+  <Bis>16:00:00</Bis>
+  <Lektoren>Christian Kaufmann</Lektoren>
+  <Gruppen>BIF-1L </Gruppen>
+  <Lehrfach>Netzwerke Grundlagen</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>9</StundeVon>
+  <StundeBis>10</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>31.01.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>20:15:00</Bis>
+  <Lektoren>Florian Eckkrammer</Lektoren>
+  <Gruppen>BWI-3B </Gruppen>
+  <Lehrfach>SW-Anwendungsentwicklung</Lehrfach>
+  <Anmerkung></Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>15</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>01.02.2018</Datum>
+  <Von>17:50:00</Von>
+  <Bis>19:20:00</Bis>
+  <Lektoren>Arthur Michael Zaczek</Lektoren>
+  <Gruppen>MSE-1A </Gruppen>
+  <Lehrfach>Software Entwicklung</Lehrfach>
+  <Anmerkung>Prüf.</Anmerkung>
+  <StundeVon>13</StundeVon>
+  <StundeBis>14</StundeBis>
+  
+</LVDaten>
+<LVDaten>
+  <Datum>01.02.2018</Datum>
+  <Von>19:30:00</Von>
+  <Bis>21:00:00</Bis>
+  <Lektoren>Arthur Michael Zaczek</Lektoren>
+  <Gruppen>MSE-1B </Gruppen>
+  <Lehrfach>Software Entwicklung</Lehrfach>
+  <Anmerkung>Prüf</Anmerkung>
+  <StundeVon>15</StundeVon>
+  <StundeBis>16</StundeBis>
+  
+</LVDaten>
+</Saalplan>

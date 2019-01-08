@@ -1,0 +1,11 @@
+# Alle für Abschlussprojek/res/...  blockieren
+# aber Zugriff auf res/img/... res/css/... res/js/... erlauben
+# Für alle anderen Verzeichnisse der Website ist das Crawlen standardmäßig erlaubt
+User-agent: *
+Disallow: /res/
+Allow: /res/css/
+Allow: /res/img/
+Allow: /res/js/
+# AdsBot-Google blockieren
+User-agent: AdsBot-Google
+Disallow: /

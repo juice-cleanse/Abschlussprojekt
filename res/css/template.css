@@ -1,0 +1,267 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13.12.2018, 20:08:38
+    Author     : aliii
+*/
+/*Farbschema*/
+/*
+color: #696F76;
+color: #0C6DA1;
+color: #8AAA15;
+color: #F3F3F3;
+color: #000000;
+*/
+/*Allgemeine Einstellungen*/
+
+*, ::before, ::after {
+    box-sizing:inherit; 
+}
+
+*{
+    box-sizing: border-box;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    padding:0;
+    margin:0;
+}
+a {
+    cursor:pointer;
+}
+
+body {
+    /*Offset für Navigateionbereich*/
+    position:relative; 
+    top:69px; 
+
+    background-color: #F3F3F3;
+}
+/*Styling Burgermenü*/
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(12,109,161, 1.0)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E")!important;
+}
+.navbar-toggler {
+    border-color: rgb(12,109,161)!important;
+} 
+/*Styling Navigationsbereich*/
+#h1_nav{
+
+    padding-left:10px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em; 
+    font-size: 1.25em;
+    margin: auto; 
+    color: #696F76;
+    line-height: 55px;
+    height: 100%; 
+    width: auto; 
+
+}
+#nav{
+    padding-top: 8px; 
+    padding-bottom: 6px; 
+    padding-right: 10px; 
+    padding-left: 10px; 
+    background-color: white !important;
+    border-bottom: #F3F3F3 solid thin;
+}  
+#title {
+    padding:0; 
+}
+
+#logo {
+    height: 55px; 
+}
+.nav-link{
+    padding-right: 0; 
+    text-align: right; 
+}
+.nav-item a {
+    color: #0C6DA1!important;
+	font-size:large;
+}
+.navbar-nav .active a{
+    color: #696F76 !important;
+}
+nav li {
+    height: 100%;
+}
+
+nav li a:hover {
+
+    transform: scale(1.1);
+    text-decoration: none;
+
+
+}
+/*Styling Footer*/
+footer h4 {
+    font-size: medium;
+}
+footer {
+    color: white; 
+   /* background-color: #696F76;*/
+   background-color: #4D5257;
+    font-size: small;
+    padding-bottom: 5px;
+    padding-top: 5px; 
+}
+#footer .row .col-12 .nav li{
+    border-right: #F3F3F3 solid thin;
+    padding:0.2em;
+    padding-left: 0.3em;
+    padding-right: 0.3em; 
+
+
+}
+#footer .row .col-12 h4 {
+    padding-left: 0.2em;
+}
+#footer .row .col-12  {
+    border-left: #F3F3F3 solid 1px;
+    padding:0.2em;
+    margin-bottom: 0.5em;
+
+}
+#footer .row .col-12 ul :last-child {
+    border-right: none; 
+}
+#footer .row {
+    max-width: 100%;
+    margin: auto;
+}
+.nav li a {
+    
+    color:#C9F71F;
+    text-decoration: none;
+}
+.nav li a:hover {
+    color: #8AAA15;
+    text-decoration: none;  
+
+
+}
+
+/******************************************MEDIA QUERIES************************************************/
+
+/*Mobile portrait*/
+@media screen and (max-device-width: 480px) and (orientation: portrait){
+    body {
+        top:51px; 
+    }
+    #h1_nav {
+        padding-left:5px;
+        letter-spacing: 0.05em; 
+        font-size: 1.2em;
+        line-height: 45px;
+    }  
+    #logo {
+        height: 45px;
+
+    }
+    #title {
+        margin-right: 8px;
+    }
+    #nav {
+        padding: 6px; 
+    }
+    .nav-link{
+        padding-right: 4px !important; 
+    }
+}
+/*Mobile landscape*/
+@media screen and (max-device-width: 640px) and (orientation: landscape){
+
+    body {
+        top:57.333px; 
+    }
+    footer .container {
+        padding-left: 0;
+        padding-right:0;
+    }
+    #footer {
+        margin-left: 30px !important; 
+        margin-right:30px !important;
+        font-size: 0.85em;
+    }
+    #h1_nav {
+        padding-left:5px;
+        letter-spacing: 0.01em; 
+        font-size: 1.0em;
+        line-height: 45px;
+    }  
+    #logo {
+        height: 45px;
+    }
+    #title {
+        margin-right: 8px;
+    }
+    #nav {
+        padding: 6px; 
+    }
+    .nav-link{
+        padding-right: 4px !important; 
+    }
+}
+/*Schmales Desktop Fenster*/
+@media only screen and (max-width:360px){
+    body {
+        top:51px; 
+    }
+    #h1_nav {
+        padding-left:0px;
+        letter-spacing: 0.01em; 
+        font-size: 1.0em;
+        line-height: 45px;
+    }  
+    #logo {
+        height: 45px;
+    }
+    #title {
+        margin-right: 8px;
+    }
+    #nav {
+        padding: 6px; 
+    }
+    .nav-link{
+        padding-right: 4px !important; 
+    }
+}
+/*Umsprung Desktop Burgermenü*/
+@media only screen and (max-width:575.5px){
+    body {
+        top:59px; 
+    }
+    #h1_nav {
+
+        font-size: 1em;
+
+        line-height: 45px;
+
+    } 
+    #logo {
+        height: 45px;
+
+    }
+    nav li a:hover {
+        margin-right: 10px;
+        transform: scale(1.05);
+        text-decoration: none;
+
+
+    }
+
+}
+
+
+/*Um 2 Spalte im Footer bei col-sm-6 und col-md-6 vertikal zu zentrieren*/
+@media only screen and (max-width:991px) and (min-width:575.5px){
+    #terms{
+        position:relative; 
+        top:3em;
+        left: 0.5em;
+    }
+
+}

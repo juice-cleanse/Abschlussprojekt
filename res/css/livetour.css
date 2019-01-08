@@ -1,0 +1,59 @@
+/*LIVETOUR CSS*/
+.row {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 0 5%;
+
+}
+
+/* Erstellt drei gleich große Spalten*/
+.column {
+	flex: 33.3%;
+	max-width: 33.3%;
+	padding: 0 4px;
+}
+
+.column videos {
+	margin-top: 8px;
+	vertical-align: middle;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+/* Wenn die Fensterbreite 1500 Pixel unterschreitet werden aus den drei Spalten zwei Spalten */
+@media screen and (max-width: 1500px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+}
+
+/* Wenn die Fensterbreite 800 Pixel unterschreitet, werden die Spalten untereinander statt nebeneinander angezeigt*/
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+
+/*Texte*/
+
+h3{
+	text-align: center;
+	margin-top: 2%;
+	margin-bottom: 5%;
+}
+
+h2{
+    padding-top: 1em;
+	padding-bottom:0.3em;
+    text-align: center;  
+    font-size:xx-large;
+}
+
+body{
+	background-color: #D3D3D3;
+}
+footer{
+	margin-top: 15%;
+}

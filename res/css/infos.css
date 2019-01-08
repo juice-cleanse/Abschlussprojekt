@@ -1,0 +1,423 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27.12.2018 - 03.01.2019
+    Author     : Paria , aliii
+*/
+/*Farbschema*/
+/*
+color: #696F76;
+color: #0C6DA1;
+color: #8AAA15;
+color: #F3F3F3;
+color: #000000;
+*/
+/*Allgemeine Einstellungen*/
+/*************************************TEMPLATE********************************************/
+
+*, ::before, ::after {
+    box-sizing:inherit; 
+}
+
+*{
+    box-sizing: border-box;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    padding:0;
+    margin:0;
+}
+
+body {
+    /*Offset f�r Navigateionbereich*/
+    position:relative; 
+    top:69px; 
+    background-color: #D3D3D3;
+}
+
+/*Styling Burgermen�*/
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(12,109,161, 1.0)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E")!important;
+}
+.navbar-toggler {
+    border-color: rgb(12,109,161)!important;
+} 
+/*Styling Navigationsbereich*/
+#h1_nav{
+
+    padding-left:10px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em; 
+    font-size: 1.25em;
+    margin: auto; 
+    color: #696F76;
+    line-height: 55px;
+    height: 100%; 
+    width: auto; 
+
+}
+#nav{
+    padding-top: 8px; 
+    padding-bottom: 6px; 
+    padding-right: 10px; 
+    padding-left: 10px; 
+    background-color: white !important;
+}  
+#title {
+    padding:0; 
+}
+
+#logo {
+    height: 55px; 
+}
+.nav-link{
+    padding-right: 0; 
+    text-align: right; 
+}
+.nav-item a {
+    color: #0C6DA1!important;
+}
+.navbar-nav .active a{
+
+    color: #696F76 !important;
+}
+nav li {
+    height: 100%;
+}
+
+nav li a:hover {
+
+    transform: scale(1.1);
+    text-decoration: none;
+}
+
+/*Styling Footer*/
+footer h4 {
+    font-size: medium;
+}
+footer {
+    color: white; 
+    background-color: #4D5257 !important;
+    font-size: small;
+    padding-bottom: 10px;
+    padding-top: 30px; 
+}
+#footer .row .col-12 .nav li{
+    border-right: #F3F3F3 solid thin;
+    padding:0.2em;
+    padding-left: 0.3em;
+    padding-right: 0.3em; 
+}
+#footer .row .col-12 h4 {
+    padding-left: 0.2em;
+}
+#footer .row .col-12  {
+    border-left: #F3F3F3 solid 1px;
+    padding:0.2em;
+    margin-bottom: 0.5em;
+}
+#footer .row .col-12 ul :last-child {
+    border-right: none; 
+}
+#footer .row {
+    max-width: 100%;
+    margin: auto;
+}
+.nav li a {
+    color: #C9F71F;
+    text-decoration: none;
+}
+.nav li a:hover {
+    color:#8AAA15;
+    text-decoration: none;  
+    transform: scale(1.05);
+}
+.carousel-control-next-icon{
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%230C6DA1' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+	width: 40px;
+	height: 40px;
+}
+.carousel-control-prev-icon{
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%230C6DA1' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+	width: 40px;
+	height: 40px;
+}
+/******************************************MEDIA QUERIES************************************************/
+
+/*Mobile portrait*/
+@media screen and (max-device-width: 480px) and (orientation: portrait){
+    body {
+        top:51px; 
+        background-color: #D3D3D3;
+    }
+    #h1_nav {
+        padding-left:5px;
+        letter-spacing: 0.05em; 
+        font-size: 1.2em;
+        line-height: 45px;
+    }  
+    #logo {
+        height: 45px;
+
+    }
+    #title {
+        margin-right: 8px;
+    }
+    #nav {
+        padding: 6px; 
+    }
+    .nav-link{
+        padding-right: 4px !important; 
+    }
+}
+/*Mobile landscape*/
+@media screen and (max-device-width: 640px) and (orientation: landscape){
+
+    body {
+        top:57.333px; 
+        background-color: #D3D3D3;
+    }
+    footer .container {
+        padding-left: 0;
+        padding-right:0;
+    }
+    #footer {
+        margin-left: 30px !important; 
+        margin-right:30px !important;
+        font-size: 0.85em;
+    }
+    #h1_nav {
+        padding-left:5px;
+        letter-spacing: 0.01em; 
+        font-size: 1.0em;
+        line-height: 45px;
+    }  
+    #logo {
+        height: 45px;
+    }
+    #title {
+        margin-right: 8px;
+    }
+    #nav {
+        padding: 6px; 
+    }
+    .nav-link{
+        padding-right: 4px !important; 
+    }
+}
+/*Schmales Desktop Fenster*/
+@media only screen and (max-width:360px){
+    body {
+        top:51px; 
+        background-color: #D3D3D3;
+    }
+    #h1_nav {
+        padding-left:0px;
+        letter-spacing: 0.01em; 
+        font-size: 1.0em;
+        line-height: 45px;
+    }  
+    #logo {
+        height: 45px;
+    }
+    #title {
+        margin-right: 8px;
+    }
+    #nav {
+        padding: 6px; 
+    }
+    .nav-link{
+        padding-right: 4px !important; 
+    }
+     h5
+    {
+      font-size:14px;
+      font-weight:600;
+      margin:auto;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom:20px;
+      padding:auto;
+      padding-left:auto;
+      padding-right:auto;
+      width: 50%;
+      
+    }
+    .rooms
+    {
+      padding-left:10px;
+      padding-right:10px;
+    }
+}
+/*Umsprung Desktop Burgermen�*/
+@media only screen and (max-width:575.5px){
+    body {
+        top:59px; 
+        background-color: #D3D3D3;
+    }
+    #h1_nav {
+        font-size: 1.2em;
+        line-height: 45px;
+    } 
+    #logo {
+        height: 45px;
+    }
+    nav li a:hover {
+        margin-right: 10px;
+        transform: scale(1.05);
+        text-decoration: none;
+    }
+    h5
+    {
+      font-size:14px;
+      font-weight:600;
+      margin:auto;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom:20px;
+      width: 50%;
+      text-align:center;
+    }
+    .rooms
+    {
+      padding-left:10px;
+      padding-right:10px;
+    }
+  }
+
+/*Um 2 Spalte im Footer bei col-sm-6 und col-md-6 vertikal zu zentrieren*/
+@media only screen and (max-width:991px) and (min-width:575.5px){
+    #terms{
+        position:relative; 
+        top:3em;
+        left: 0.5em;
+    }
+     h5
+    {
+      font-size:14px;
+      font-weight:600;
+      margin:auto;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom:20px;
+      padding:auto;
+      padding-left:auto;
+      padding-right:auto;
+      width: 50%;
+      text-align:center;
+    }
+    .rooms
+    {
+      padding-left:10px;
+      padding-right:10px;
+    }
+}
+/*************************************TEMPLATE********************************************/
+main 
+{
+    box-sizing: border-box;
+    position:relative; 
+    padding-top:30px; 
+    height:100%;
+    border:transparent;
+}
+.d-block /*Gallery*/
+{
+    margin:auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:30px;
+    width: 600px;
+    height: 300px;
+    border-radius:25px;
+}
+.carousel-indicators /*Indicators setting*/
+{
+    margin:auto;
+}
+.carousel-indicators li
+  {
+  padding-top:10px;
+  border-radius:50px;
+  background-color:#696F76;
+  }
+.carousel-inner 
+  {
+    margin-bottom:50px;
+  }
+.carousel-caption 
+ {
+    position: relative;
+    left: auto;
+    right: auto;
+ }
+h5 /*TITLES*/
+{
+   font-weight:900em;
+   color:#000000;
+   padding-top:10px;
+   padding-bottom:10px;
+   margin:auto;
+   padding:auto;
+   padding-left:auto;
+   padding-right:auto;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom:20px;
+   width: 50%;
+}
+h2
+{
+	padding-top: 0.1em;
+	padding-bottom:0.5em;
+   text-align: center;  
+   font-size:xx-large;
+}
+.rooms /*Captions Settings*/
+{
+   display: block;
+   margin:auto;
+   padding:auto;
+   margin-left: auto;
+   margin-right: auto;
+   width: 30%;
+   font-size:13px;
+   color:#000000; 
+   box-sizing:border-box;  
+   border:5px solid white;
+   border-radius:20px;
+}
+.map /*Address & Googlemap*/
+{
+   margin:auto;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 100%;
+   box-sizing: border-box;
+   position:relative; 
+   padding-top:30px; 
+   margin-bottom:30px;
+   height:auto;
+   border:transparent; 
+   border-radius:25px;
+   background-color: #008B8B;
+   color:white;
+   padding-bottom:30px;
+}
+iframe
+{
+   margin:auto;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 100%;
+}
+
+
